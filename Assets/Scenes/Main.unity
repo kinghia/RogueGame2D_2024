@@ -392,6 +392,7 @@ MonoBehaviour:
   vfxSpawnPoint: {fileID: 1909325167}
   attackPoint: {fileID: 1948028498}
   attackRange: 1.67
+  attackDamage: 40
   enemyLayers:
     serializedVersion: 2
     m_Bits: 8
@@ -455,8 +456,8 @@ MonoBehaviour:
   enemyPrefabs: {fileID: 1931419663301292784, guid: 83d55ae7dd781ce4e824feeba628b6dd, type: 3}
   rangePlayer: {fileID: 1576570586}
   enemyParent: {fileID: 1931122600}
-  minDistance: 15
-  maxRange: 25
+  minDistance: 5
+  maxRange: 15
   timeSpawn: 1
 --- !u!4 &1931122600
 Transform:

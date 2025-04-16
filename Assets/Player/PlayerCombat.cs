@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 public class PlayerCombat : MonoBehaviour
 {
@@ -23,13 +24,11 @@ public class PlayerCombat : MonoBehaviour
     SpriteRenderer sr;
     Animator anim;
     PlayerMovement playerMovement;
-    //EnemyHealth enemyHealth;
 
     void Start()
     {
         anim = GetComponent<Animator>();
         sr = GetComponent<SpriteRenderer>();
-        //enemyHealth = FindFirstObjectByType<EnemyHealth>();
     }
 
     void Update()
@@ -67,10 +66,20 @@ public class PlayerCombat : MonoBehaviour
 
         foreach (Collider2D enemy in hitEnemies)
         {
-            enemy.GetComponent<EnemyHealth>().TakeDamage(attackDamage);
-            Debug.Log("hit Enemy");
+            StartCoroutine(DelayedHit(enemy, .5f));
         }
     }
+
+    IEnumerator DelayedHit(Collider2D enemy, float delay)
+{
+    yield return new WaitForSeconds(delay);
+
+    if (enemy != null)
+    {
+        enemy.GetComponent<EnemyHealth>().TakeDamage(attackDamage);
+        Debug.Log("hit enemy");
+    }
+}
 
     void AttackLunge()
     {
@@ -78,7 +87,7 @@ public class PlayerCombat : MonoBehaviour
 
         Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
 
-        foreach (Collider2D colEnemy in hitEnemies)
+        foreach (Collider2D enemy in hitEnemies)
         {
             // todo
         }
@@ -90,7 +99,7 @@ public class PlayerCombat : MonoBehaviour
 
         Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
 
-        foreach (Collider2D colEnemy in hitEnemies)
+        foreach (Collider2D enemy in hitEnemies)
         {
             // todo
         }

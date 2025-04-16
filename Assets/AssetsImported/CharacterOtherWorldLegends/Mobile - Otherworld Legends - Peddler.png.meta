@@ -1,0 +1,3165 @@
+fileFormatVersion: 2
+guid: f78f9779fd01cd347afeaed351921dd7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8700144362604543578
+    second: Mobile - Otherworld Legends - Peddler_0
+  - first:
+      213: 1174519304369695671
+    second: Mobile - Otherworld Legends - Peddler_1
+  - first:
+      213: 9124965578364468345
+    second: Mobile - Otherworld Legends - Peddler_2
+  - first:
+      213: -1925891821096764205
+    second: Mobile - Otherworld Legends - Peddler_3
+  - first:
+      213: 5397106900883143050
+    second: Mobile - Otherworld Legends - Peddler_4
+  - first:
+      213: 3243074105510580983
+    second: Mobile - Otherworld Legends - Peddler_5
+  - first:
+      213: -5749673770486567322
+    second: Mobile - Otherworld Legends - Peddler_6
+  - first:
+      213: -9132768946011704179
+    second: Mobile - Otherworld Legends - Peddler_7
+  - first:
+      213: -421690398057709494
+    second: Mobile - Otherworld Legends - Peddler_8
+  - first:
+      213: 202578546524032143
+    second: Mobile - Otherworld Legends - Peddler_9
+  - first:
+      213: -6565409589435171273
+    second: Mobile - Otherworld Legends - Peddler_10
+  - first:
+      213: -9144655650053725537
+    second: Mobile - Otherworld Legends - Peddler_11
+  - first:
+      213: 2164149248098157345
+    second: Mobile - Otherworld Legends - Peddler_12
+  - first:
+      213: -3929088533032731635
+    second: Mobile - Otherworld Legends - Peddler_13
+  - first:
+      213: -5837916768138385460
+    second: Mobile - Otherworld Legends - Peddler_14
+  - first:
+      213: -6113887775071783842
+    second: Mobile - Otherworld Legends - Peddler_15
+  - first:
+      213: -3972074473995588425
+    second: Mobile - Otherworld Legends - Peddler_16
+  - first:
+      213: -631040127617959017
+    second: Mobile - Otherworld Legends - Peddler_17
+  - first:
+      213: -5701882758952892789
+    second: Mobile - Otherworld Legends - Peddler_18
+  - first:
+      213: -2946875205601093032
+    second: Mobile - Otherworld Legends - Peddler_19
+  - first:
+      213: 8427409778051683285
+    second: Mobile - Otherworld Legends - Peddler_20
+  - first:
+      213: -5053572901516867899
+    second: Mobile - Otherworld Legends - Peddler_21
+  - first:
+      213: 8296524389234393921
+    second: Mobile - Otherworld Legends - Peddler_22
+  - first:
+      213: -1365037235921487945
+    second: Mobile - Otherworld Legends - Peddler_23
+  - first:
+      213: -9161259372398753215
+    second: Mobile - Otherworld Legends - Peddler_24
+  - first:
+      213: 2421208530173696425
+    second: Mobile - Otherworld Legends - Peddler_25
+  - first:
+      213: 7169269078078075745
+    second: Mobile - Otherworld Legends - Peddler_26
+  - first:
+      213: 1017365991651414254
+    second: Mobile - Otherworld Legends - Peddler_27
+  - first:
+      213: -8150729667877261335
+    second: Mobile - Otherworld Legends - Peddler_28
+  - first:
+      213: -6445697427028867628
+    second: Mobile - Otherworld Legends - Peddler_29
+  - first:
+      213: -2865154193821932670
+    second: Mobile - Otherworld Legends - Peddler_30
+  - first:
+      213: 7964228038359415202
+    second: Mobile - Otherworld Legends - Peddler_31
+  - first:
+      213: -5999950223941101742
+    second: Mobile - Otherworld Legends - Peddler_32
+  - first:
+      213: -3710324197997798909
+    second: Mobile - Otherworld Legends - Peddler_33
+  - first:
+      213: -6527835287678932939
+    second: Mobile - Otherworld Legends - Peddler_34
+  - first:
+      213: 4941856765658014203
+    second: Mobile - Otherworld Legends - Peddler_35
+  - first:
+      213: 8157075316488697756
+    second: Mobile - Otherworld Legends - Peddler_36
+  - first:
+      213: -3235462671849221392
+    second: Mobile - Otherworld Legends - Peddler_37
+  - first:
+      213: 6044429809041884590
+    second: Mobile - Otherworld Legends - Peddler_38
+  - first:
+      213: -3764471092378072400
+    second: Mobile - Otherworld Legends - Peddler_39
+  - first:
+      213: -7124454252060601558
+    second: Mobile - Otherworld Legends - Peddler_40
+  - first:
+      213: -6764937442422160944
+    second: Mobile - Otherworld Legends - Peddler_41
+  - first:
+      213: 7981392459129710741
+    second: Mobile - Otherworld Legends - Peddler_42
+  - first:
+      213: 1419232455538423858
+    second: Mobile - Otherworld Legends - Peddler_43
+  - first:
+      213: -2341761591130507108
+    second: Mobile - Otherworld Legends - Peddler_44
+  - first:
+      213: -3500208679905323706
+    second: Mobile - Otherworld Legends - Peddler_45
+  - first:
+      213: 3233627022601547156
+    second: Mobile - Otherworld Legends - Peddler_46
+  - first:
+      213: 8064458134446679646
+    second: Mobile - Otherworld Legends - Peddler_47
+  - first:
+      213: 8810110006157428499
+    second: Mobile - Otherworld Legends - Peddler_48
+  - first:
+      213: -2657380895876687201
+    second: Mobile - Otherworld Legends - Peddler_49
+  - first:
+      213: 7216691944552664419
+    second: Mobile - Otherworld Legends - Peddler_50
+  - first:
+      213: -7998214541956346769
+    second: Mobile - Otherworld Legends - Peddler_51
+  - first:
+      213: 5648009794618358895
+    second: Mobile - Otherworld Legends - Peddler_52
+  - first:
+      213: 1271624461100231091
+    second: Mobile - Otherworld Legends - Peddler_53
+  - first:
+      213: -9175164937795952700
+    second: Mobile - Otherworld Legends - Peddler_54
+  - first:
+      213: 6660714843227965838
+    second: Mobile - Otherworld Legends - Peddler_55
+  - first:
+      213: 2129942935172986324
+    second: Mobile - Otherworld Legends - Peddler_56
+  - first:
+      213: 7283028327590655457
+    second: Mobile - Otherworld Legends - Peddler_57
+  - first:
+      213: -3750216844102209444
+    second: Mobile - Otherworld Legends - Peddler_58
+  - first:
+      213: -708486265150663178
+    second: Mobile - Otherworld Legends - Peddler_59
+  - first:
+      213: -349908104780741785
+    second: Mobile - Otherworld Legends - Peddler_60
+  - first:
+      213: 8886617204623096828
+    second: Mobile - Otherworld Legends - Peddler_61
+  - first:
+      213: -940471766636265383
+    second: Mobile - Otherworld Legends - Peddler_62
+  - first:
+      213: -8111981581859545574
+    second: Mobile - Otherworld Legends - Peddler_63
+  - first:
+      213: 8965046874729499360
+    second: Mobile - Otherworld Legends - Peddler_64
+  - first:
+      213: -8521118005478223734
+    second: Mobile - Otherworld Legends - Peddler_65
+  - first:
+      213: 6223396704788865146
+    second: Mobile - Otherworld Legends - Peddler_66
+  - first:
+      213: 4905486549263661400
+    second: Mobile - Otherworld Legends - Peddler_67
+  - first:
+      213: 2769861928065342497
+    second: Mobile - Otherworld Legends - Peddler_68
+  - first:
+      213: 4407712448609605297
+    second: Mobile - Otherworld Legends - Peddler_69
+  - first:
+      213: 5121437037083983101
+    second: Mobile - Otherworld Legends - Peddler_70
+  - first:
+      213: -2142988596112275469
+    second: Mobile - Otherworld Legends - Peddler_71
+  - first:
+      213: -2068576734728734318
+    second: Mobile - Otherworld Legends - Peddler_72
+  - first:
+      213: -492501413161691678
+    second: Mobile - Otherworld Legends - Peddler_73
+  - first:
+      213: 2194019426456283488
+    second: Mobile - Otherworld Legends - Peddler_74
+  - first:
+      213: -1170949545622971716
+    second: Mobile - Otherworld Legends - Peddler_75
+  - first:
+      213: 624698764304897208
+    second: Mobile - Otherworld Legends - Peddler_76
+  - first:
+      213: 5142518604934985022
+    second: Mobile - Otherworld Legends - Peddler_77
+  - first:
+      213: 1257409926896389348
+    second: Mobile - Otherworld Legends - Peddler_78
+  - first:
+      213: 7096338777278296294
+    second: Mobile - Otherworld Legends - Peddler_79
+  - first:
+      213: 1925043886260252233
+    second: Mobile - Otherworld Legends - Peddler_80
+  - first:
+      213: 3566572289070679638
+    second: Mobile - Otherworld Legends - Peddler_81
+  - first:
+      213: -2283595436859960841
+    second: Mobile - Otherworld Legends - Peddler_82
+  - first:
+      213: 7449811642784976169
+    second: Mobile - Otherworld Legends - Peddler_83
+  - first:
+      213: 3330617363059491901
+    second: Mobile - Otherworld Legends - Peddler_84
+  - first:
+      213: -7177556335508699550
+    second: Mobile - Otherworld Legends - Peddler_85
+  - first:
+      213: -6427402091075749311
+    second: Mobile - Otherworld Legends - Peddler_86
+  - first:
+      213: -8229013803779117062
+    second: Mobile - Otherworld Legends - Peddler_87
+  - first:
+      213: -2135316349755852170
+    second: Mobile - Otherworld Legends - Peddler_88
+  - first:
+      213: 9101696255224324865
+    second: Mobile - Otherworld Legends - Peddler_89
+  - first:
+      213: -3383741601061569055
+    second: Mobile - Otherworld Legends - Peddler_90
+  - first:
+      213: -7213297670820288222
+    second: Mobile - Otherworld Legends - Peddler_91
+  - first:
+      213: -2025860774537195077
+    second: Mobile - Otherworld Legends - Peddler_92
+  - first:
+      213: -8202276883886527962
+    second: Mobile - Otherworld Legends - Peddler_93
+  - first:
+      213: -1595414421422990710
+    second: Mobile - Otherworld Legends - Peddler_94
+  - first:
+      213: -6188557570289157153
+    second: Mobile - Otherworld Legends - Peddler_95
+  - first:
+      213: -6703646938001354897
+    second: Mobile - Otherworld Legends - Peddler_96
+  - first:
+      213: 8943146932277204910
+    second: Mobile - Otherworld Legends - Peddler_97
+  - first:
+      213: -3815830641848321089
+    second: Mobile - Otherworld Legends - Peddler_98
+  - first:
+      213: 5891242508341340527
+    second: Mobile - Otherworld Legends - Peddler_99
+  - first:
+      213: 6079029236869346324
+    second: Mobile - Otherworld Legends - Peddler_100
+  - first:
+      213: -8891406007909295602
+    second: Mobile - Otherworld Legends - Peddler_101
+  - first:
+      213: 4041846654703579941
+    second: Mobile - Otherworld Legends - Peddler_102
+  - first:
+      213: 164032694482713635
+    second: Mobile - Otherworld Legends - Peddler_103
+  - first:
+      213: 6429984239580227076
+    second: Mobile - Otherworld Legends - Peddler_104
+  - first:
+      213: -7784281291922213435
+    second: Mobile - Otherworld Legends - Peddler_105
+  - first:
+      213: 5562704866641109813
+    second: Mobile - Otherworld Legends - Peddler_106
+  - first:
+      213: -8902495412436739569
+    second: Mobile - Otherworld Legends - Peddler_107
+  - first:
+      213: -8565590536164175703
+    second: Mobile - Otherworld Legends - Peddler_108
+  - first:
+      213: -2262750039416587148
+    second: Mobile - Otherworld Legends - Peddler_109
+  - first:
+      213: 8639570128860838095
+    second: Mobile - Otherworld Legends - Peddler_110
+  - first:
+      213: 1273858600582465468
+    second: Mobile - Otherworld Legends - Peddler_111
+  - first:
+      213: -4961266336707905178
+    second: Mobile - Otherworld Legends - Peddler_112
+  - first:
+      213: 8774318556213581735
+    second: Mobile - Otherworld Legends - Peddler_113
+  - first:
+      213: -129762568854947070
+    second: Mobile - Otherworld Legends - Peddler_114
+  - first:
+      213: -7863128342156476135
+    second: Mobile - Otherworld Legends - Peddler_115
+  - first:
+      213: -345526482480854002
+    second: Mobile - Otherworld Legends - Peddler_116
+  - first:
+      213: 6817136084371486063
+    second: Mobile - Otherworld Legends - Peddler_117
+  - first:
+      213: -1921869530157278644
+    second: Mobile - Otherworld Legends - Peddler_118
+  - first:
+      213: -848121391978145595
+    second: Mobile - Otherworld Legends - Peddler_119
+  - first:
+      213: -5292945334271397542
+    second: Mobile - Otherworld Legends - Peddler_120
+  - first:
+      213: -3313192411937892194
+    second: Mobile - Otherworld Legends - Peddler_121
+  - first:
+      213: -7697623055556147085
+    second: Mobile - Otherworld Legends - Peddler_122
+  - first:
+      213: 6650736896275648601
+    second: Mobile - Otherworld Legends - Peddler_123
+  - first:
+      213: 1771603357556835332
+    second: Mobile - Otherworld Legends - Peddler_124
+  - first:
+      213: 2256153528118296976
+    second: Mobile - Otherworld Legends - Peddler_125
+  - first:
+      213: -4916364265299453097
+    second: Mobile - Otherworld Legends - Peddler_126
+  - first:
+      213: -4046367002771631173
+    second: Mobile - Otherworld Legends - Peddler_127
+  - first:
+      213: 3724036664688778903
+    second: Mobile - Otherworld Legends - Peddler_128
+  - first:
+      213: -4006403668461858939
+    second: Mobile - Otherworld Legends - Peddler_129
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 877
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e39a3d33f1db870800000000000000
+      internalID: 8700144362604543578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 877
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb6bce951bbc4010800000000000000
+      internalID: 1174519304369695671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 823
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cb41ee8d362ae70800000000000000
+      internalID: 9124965578364468345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 823
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc72bfa79bd545e0800000000000000
+      internalID: -1925891821096764205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 823
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89f2f9912066ea40800000000000000
+      internalID: 5397106900883143050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 823
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2d93767b6b10d20800000000000000
+      internalID: 3243074105510580983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_6
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 823
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e64c73b2e0530b0800000000000000
+      internalID: -5749673770486567322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 823
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84f045f703e14180800000000000000
+      internalID: -9132768946011704179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 776
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40c39231dad52af0800000000000000
+      internalID: -421690398057709494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 776
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c0ea06d14bfc200800000000000000
+      internalID: 202578546524032143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 776
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ef5c073caf2e4a0800000000000000
+      internalID: -6565409589435171273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 776
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9267410328a71180800000000000000
+      internalID: -9144655650053725537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 726
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123c1d5664a980e10800000000000000
+      internalID: 2164149248098157345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 727
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cf581ebc21979c0800000000000000
+      internalID: -3929088533032731635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_14
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 729
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7a0d641ad8bfea0800000000000000
+      internalID: -5837916768138385460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_15
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 727
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e543e3a167b172ba0800000000000000
+      internalID: -6113887775071783842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_16
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 727
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bca8149f4b50e8c0800000000000000
+      internalID: -3972074473995588425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 727
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b705ae8581e37f0800000000000000
+      internalID: -631040127617959017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 724
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8640b137d7ded0b0800000000000000
+      internalID: -5701882758952892789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 701
+        width: 51
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a9dbc1d989a17d0800000000000000
+      internalID: -2946875205601093032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 700
+        width: 51
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d39c65fa8c24f470800000000000000
+      internalID: 8427409778051683285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 699
+        width: 51
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c60c86983a1ed9b0800000000000000
+      internalID: -5053572901516867899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 644
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1434ea2a9fc232370800000000000000
+      internalID: 8296524389234393921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_23
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 644
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7f7bfbdd96e0de0800000000000000
+      internalID: -1365037235921487945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_24
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 644
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a44f4a32bacd080800000000000000
+      internalID: -9161259372398753215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_25
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 644
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a91620845cd99120800000000000000
+      internalID: 2421208530173696425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_26
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 644
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163390afd3c5e7360800000000000000
+      internalID: 7169269078078075745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_27
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 644
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee012faaaf86e1e00800000000000000
+      internalID: 1017365991651414254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 644
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef20fd2d8ac2ee80800000000000000
+      internalID: -8150729667877261335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_29
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 644
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d58b4447584c86a0800000000000000
+      internalID: -6445697427028867628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_30
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 644
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283e582e07dec38d0800000000000000
+      internalID: -2865154193821932670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_31
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 644
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a97e90643f968e60800000000000000
+      internalID: 7964228038359415202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 595
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25717f77f05ebbca0800000000000000
+      internalID: -5999950223941101742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 595
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a1ec0dcc7428cc0800000000000000
+      internalID: -3710324197997798909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_34
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 595
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53823ad44687865a0800000000000000
+      internalID: -6527835287678932939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 595
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf128e79b80059440800000000000000
+      internalID: 4941856765658014203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 595
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c977a6548c0c33170800000000000000
+      internalID: 8157075316488697756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 595
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2146897d35913d0800000000000000
+      internalID: -3235462671849221392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_38
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 544
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea549b5f2e022e350800000000000000
+      internalID: 6044429809041884590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 544
+        width: 49
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba049b8c79e1cbc0800000000000000
+      internalID: -3764471092378072400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_40
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 544
+        width: 38
+        height: 42
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23186fca9ad02d90800000000000000
+      internalID: -7124454252060601558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_41
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 544
+        width: 34
+        height: 42
+      alignment: 9
+      pivot: {x: 0.56, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d100b00d3d1e12a0800000000000000
+      internalID: -6764937442422160944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_42
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 544
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5986863872a93ce60800000000000000
+      internalID: 7981392459129710741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_43
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 496
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238b21e166022b310800000000000000
+      internalID: 1419232455538423858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_44
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 496
+        width: 53
+        height: 42
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9833047d34608fd0800000000000000
+      internalID: -2341761591130507108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_45
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 496
+        width: 43
+        height: 42
+      alignment: 9
+      pivot: {x: 0.66, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645118220c2cc6fc0800000000000000
+      internalID: -3500208679905323706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 496
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.63, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49de44205a620ec20800000000000000
+      internalID: 3233627022601547156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_47
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 496
+        width: 24
+        height: 42
+      alignment: 9
+      pivot: {x: 0.44, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5624b922f5baef60800000000000000
+      internalID: 8064458134446679646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_48
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 428
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317c0256f5cc34a70800000000000000
+      internalID: 8810110006157428499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_49
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 428
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a5c5497261f1bd0800000000000000
+      internalID: -2657380895876687201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_51
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 428
+        width: 50
+        height: 62
+      alignment: 9
+      pivot: {x: 0.74, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c045d1042a00190800000000000000
+      internalID: -7998214541956346769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_53
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 428
+        width: 52
+        height: 62
+      alignment: 9
+      pivot: {x: 0.74, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9a393c5b7b5a110800000000000000
+      internalID: 1271624461100231091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_54
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 428
+        width: 30
+        height: 43
+      alignment: 9
+      pivot: {x: 0.52, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf9d07e9144ba080800000000000000
+      internalID: -9175164937795952700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_55
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 428
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: 0.58, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8946c42cdc9f6c50800000000000000
+      internalID: 6660714843227965838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_59
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 361
+        width: 50
+        height: 62
+      alignment: 9
+      pivot: {x: 0.74, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5f5234da3821560800000000000000
+      internalID: 7283028327590655457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_60
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 361
+        width: 51
+        height: 62
+      alignment: 9
+      pivot: {x: 0.73, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763838ebe60e42bf0800000000000000
+      internalID: -349908104780741785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_61
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 361
+        width: 28
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb3f68a34b935b70800000000000000
+      internalID: 8886617204623096828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_62
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 361
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9508c5c39e5c2f2f0800000000000000
+      internalID: -940471766636265383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_57
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 361
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e10ccfab37c6f80800000000000000
+      internalID: -8111981581859545574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_58
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 361
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea4afa32ae3a6c70800000000000000
+      internalID: 8965046874729499360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 304
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8019422258eeb980800000000000000
+      internalID: -8521118005478223734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_66
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 304
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70e64d7452fd5650800000000000000
+      internalID: 6223396704788865146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_67
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 304
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8593153b60ac31440800000000000000
+      internalID: 4905486549263661400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_68
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 304
+        width: 44
+        height: 45
+      alignment: 9
+      pivot: {x: 0.67, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c963b8fb6807620800000000000000
+      internalID: 2769861928065342497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_70
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 304
+        width: 43
+        height: 45
+      alignment: 9
+      pivot: {x: 0.67, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc7be6c9dff21740800000000000000
+      internalID: 5121437037083983101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_71
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 304
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 0.68, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7c303d9339242e0800000000000000
+      internalID: -2142988596112275469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_72
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 304
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 0.68, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2993bd76b60fa43e0800000000000000
+      internalID: -2068576734728734318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_76
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 254
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4d40267306ba800800000000000000
+      internalID: 624698764304897208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_77
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 254
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35bcf9cc65ed5740800000000000000
+      internalID: 5142518604934985022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_78
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 254
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec85bd9aa7337110800000000000000
+      internalID: 1257409926896389348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_79
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 254
+        width: 53
+        height: 42
+      alignment: 9
+      pivot: {x: 0.63, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0b08915824b7260800000000000000
+      internalID: 7096338777278296294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_80
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 254
+        width: 43
+        height: 42
+      alignment: 9
+      pivot: {x: 0.64, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e6499173127ba10800000000000000
+      internalID: 1925043886260252233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_81
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 254
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.62, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6564fc3b9920f7130800000000000000
+      internalID: 3566572289070679638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_82
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 254
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f152479c0a0f40e0800000000000000
+      internalID: -2283595436859960841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_83
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 204
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d84c3e73c036760800000000000000
+      internalID: 7449811642784976169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_84
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 204
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34c8e768dab83e20800000000000000
+      internalID: 3330617363059491901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_85
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 204
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26646aa8a82346c90800000000000000
+      internalID: -7177556335508699550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_86
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 204
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ab3dc1ad74dc6a0800000000000000
+      internalID: -6427402091075749311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_87
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 204
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affa5fd6b8baccd80800000000000000
+      internalID: -8229013803779117062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_88
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 204
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67af7b1e715dd52e0800000000000000
+      internalID: -2135316349755852170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_89
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 204
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10326227588bf4e70800000000000000
+      internalID: 9101696255224324865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 204
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed730111f88a01d0800000000000000
+      internalID: -3383741601061569055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_91
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 204
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229aa9f6cf735eb90800000000000000
+      internalID: -7213297670820288222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_92
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 204
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb11059eb52b2e3e0800000000000000
+      internalID: -2025860774537195077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_93
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 204
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62aab82b1a8ab2e80800000000000000
+      internalID: -8202276883886527962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_94
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 156
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a1c8d5903fbd9e0800000000000000
+      internalID: -1595414421422990710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_95
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 156
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb3cde9da3dd1aa0800000000000000
+      internalID: -6188557570289157153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_96
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 156
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f4bc890acd7f2a0800000000000000
+      internalID: -6703646938001354897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_97
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 156
+        width: 47
+        height: 42
+      alignment: 9
+      pivot: {x: 0.68, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7d18880c07c1c70800000000000000
+      internalID: 8943146932277204910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_98
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 156
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb74959f327b0bc0800000000000000
+      internalID: -3815830641848321089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_99
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 156
+        width: 39
+        height: 42
+      alignment: 9
+      pivot: {x: 0.64, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69ed5329d5e1c150800000000000000
+      internalID: 5891242508341340527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_100
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 156
+        width: 34
+        height: 42
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414bfc202ec0d5450800000000000000
+      internalID: 6079029236869346324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_101
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 156
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.56, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0adac038516b9480800000000000000
+      internalID: -8891406007909295602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_102
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523353a2e16871830800000000000000
+      internalID: 4041846654703579941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_103
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 109
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c3136ddd2c64200800000000000000
+      internalID: 164032694482713635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_104
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 109
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4062a8f2994eb3950800000000000000
+      internalID: 6429984239580227076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_107
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 109
+        width: 56
+        height: 42
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ad92ff69bf37480800000000000000
+      internalID: -8902495412436739569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_109
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 109
+        width: 56
+        height: 42
+      alignment: 9
+      pivot: {x: 0.78, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cb215e3d81990e0800000000000000
+      internalID: -2262750039416587148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_110
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 109
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc873def14be5e770800000000000000
+      internalID: 8639570128860838095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_111
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 109
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.56, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb74bc5e5a7ada110800000000000000
+      internalID: 1273858600582465468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 109
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.56, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669fb6c7d8a062bb0800000000000000
+      internalID: -4961266336707905178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_113
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 109
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.47, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a79a311d34a4c970800000000000000
+      internalID: 8774318556213581735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_114
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b324291adf23ef0800000000000000
+      internalID: -129762568854947070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_115
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 64
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9110576fe6e80e290800000000000000
+      internalID: -7863128342156476135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_118
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 64
+        width: 54
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a145648d52455e0800000000000000
+      internalID: -1921869530157278644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_120
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 64
+        width: 56
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51313ff24eab86b0800000000000000
+      internalID: -5292945334271397542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_121
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 64
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e981ced2e0d2502d0800000000000000
+      internalID: -3313192411937892194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_122
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 64
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37808be5d9c8c2590800000000000000
+      internalID: -7697623055556147085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_123
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 16
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950181558f92c4c50800000000000000
+      internalID: 6650736896275648601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_124
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 17
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404801a0edff59810800000000000000
+      internalID: 1771603357556835332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_125
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 16
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0914c322ea77f4f10800000000000000
+      internalID: 2256153528118296976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_126
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 16
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bd66cafb095cbb0800000000000000
+      internalID: -4916364265299453097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_127
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 16
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb35fe846aa68d7c0800000000000000
+      internalID: -4046367002771631173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_128
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 16
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e1e41ad9f6ea330800000000000000
+      internalID: 3724036664688778903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Peddler_129
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 16
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f428227156668c0800000000000000
+      internalID: -4006403668461858939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: eaceec3d96de62142819e64afab7f344
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - Otherworld Legends - Peddler_0: 8700144362604543578
+      Mobile - Otherworld Legends - Peddler_1: 1174519304369695671
+      Mobile - Otherworld Legends - Peddler_10: -6565409589435171273
+      Mobile - Otherworld Legends - Peddler_100: 6079029236869346324
+      Mobile - Otherworld Legends - Peddler_101: -8891406007909295602
+      Mobile - Otherworld Legends - Peddler_102: 4041846654703579941
+      Mobile - Otherworld Legends - Peddler_103: 164032694482713635
+      Mobile - Otherworld Legends - Peddler_104: 6429984239580227076
+      Mobile - Otherworld Legends - Peddler_105: -7784281291922213435
+      Mobile - Otherworld Legends - Peddler_106: 5562704866641109813
+      Mobile - Otherworld Legends - Peddler_107: -8902495412436739569
+      Mobile - Otherworld Legends - Peddler_108: -8565590536164175703
+      Mobile - Otherworld Legends - Peddler_109: -2262750039416587148
+      Mobile - Otherworld Legends - Peddler_11: -9144655650053725537
+      Mobile - Otherworld Legends - Peddler_110: 8639570128860838095
+      Mobile - Otherworld Legends - Peddler_111: 1273858600582465468
+      Mobile - Otherworld Legends - Peddler_112: -4961266336707905178
+      Mobile - Otherworld Legends - Peddler_113: 8774318556213581735
+      Mobile - Otherworld Legends - Peddler_114: -129762568854947070
+      Mobile - Otherworld Legends - Peddler_115: -7863128342156476135
+      Mobile - Otherworld Legends - Peddler_116: -345526482480854002
+      Mobile - Otherworld Legends - Peddler_117: 6817136084371486063
+      Mobile - Otherworld Legends - Peddler_118: -1921869530157278644
+      Mobile - Otherworld Legends - Peddler_119: -848121391978145595
+      Mobile - Otherworld Legends - Peddler_12: 2164149248098157345
+      Mobile - Otherworld Legends - Peddler_120: -5292945334271397542
+      Mobile - Otherworld Legends - Peddler_121: -3313192411937892194
+      Mobile - Otherworld Legends - Peddler_122: -7697623055556147085
+      Mobile - Otherworld Legends - Peddler_123: 6650736896275648601
+      Mobile - Otherworld Legends - Peddler_124: 1771603357556835332
+      Mobile - Otherworld Legends - Peddler_125: 2256153528118296976
+      Mobile - Otherworld Legends - Peddler_126: -4916364265299453097
+      Mobile - Otherworld Legends - Peddler_127: -4046367002771631173
+      Mobile - Otherworld Legends - Peddler_128: 3724036664688778903
+      Mobile - Otherworld Legends - Peddler_129: -4006403668461858939
+      Mobile - Otherworld Legends - Peddler_13: -3929088533032731635
+      Mobile - Otherworld Legends - Peddler_14: -5837916768138385460
+      Mobile - Otherworld Legends - Peddler_15: -6113887775071783842
+      Mobile - Otherworld Legends - Peddler_16: -3972074473995588425
+      Mobile - Otherworld Legends - Peddler_17: -631040127617959017
+      Mobile - Otherworld Legends - Peddler_18: -5701882758952892789
+      Mobile - Otherworld Legends - Peddler_19: -2946875205601093032
+      Mobile - Otherworld Legends - Peddler_2: 9124965578364468345
+      Mobile - Otherworld Legends - Peddler_20: 8427409778051683285
+      Mobile - Otherworld Legends - Peddler_21: -5053572901516867899
+      Mobile - Otherworld Legends - Peddler_22: 8296524389234393921
+      Mobile - Otherworld Legends - Peddler_23: -1365037235921487945
+      Mobile - Otherworld Legends - Peddler_24: -9161259372398753215
+      Mobile - Otherworld Legends - Peddler_25: 2421208530173696425
+      Mobile - Otherworld Legends - Peddler_26: 7169269078078075745
+      Mobile - Otherworld Legends - Peddler_27: 1017365991651414254
+      Mobile - Otherworld Legends - Peddler_28: -8150729667877261335
+      Mobile - Otherworld Legends - Peddler_29: -6445697427028867628
+      Mobile - Otherworld Legends - Peddler_3: -1925891821096764205
+      Mobile - Otherworld Legends - Peddler_30: -2865154193821932670
+      Mobile - Otherworld Legends - Peddler_31: 7964228038359415202
+      Mobile - Otherworld Legends - Peddler_32: -5999950223941101742
+      Mobile - Otherworld Legends - Peddler_33: -3710324197997798909
+      Mobile - Otherworld Legends - Peddler_34: -6527835287678932939
+      Mobile - Otherworld Legends - Peddler_35: 4941856765658014203
+      Mobile - Otherworld Legends - Peddler_36: 8157075316488697756
+      Mobile - Otherworld Legends - Peddler_37: -3235462671849221392
+      Mobile - Otherworld Legends - Peddler_38: 6044429809041884590
+      Mobile - Otherworld Legends - Peddler_39: -3764471092378072400
+      Mobile - Otherworld Legends - Peddler_4: 5397106900883143050
+      Mobile - Otherworld Legends - Peddler_40: -7124454252060601558
+      Mobile - Otherworld Legends - Peddler_41: -6764937442422160944
+      Mobile - Otherworld Legends - Peddler_42: 7981392459129710741
+      Mobile - Otherworld Legends - Peddler_43: 1419232455538423858
+      Mobile - Otherworld Legends - Peddler_44: -2341761591130507108
+      Mobile - Otherworld Legends - Peddler_45: -3500208679905323706
+      Mobile - Otherworld Legends - Peddler_46: 3233627022601547156
+      Mobile - Otherworld Legends - Peddler_47: 8064458134446679646
+      Mobile - Otherworld Legends - Peddler_48: 8810110006157428499
+      Mobile - Otherworld Legends - Peddler_49: -2657380895876687201
+      Mobile - Otherworld Legends - Peddler_5: 3243074105510580983
+      Mobile - Otherworld Legends - Peddler_50: 7216691944552664419
+      Mobile - Otherworld Legends - Peddler_51: -7998214541956346769
+      Mobile - Otherworld Legends - Peddler_52: 5648009794618358895
+      Mobile - Otherworld Legends - Peddler_53: 1271624461100231091
+      Mobile - Otherworld Legends - Peddler_54: -9175164937795952700
+      Mobile - Otherworld Legends - Peddler_55: 6660714843227965838
+      Mobile - Otherworld Legends - Peddler_56: 2129942935172986324
+      Mobile - Otherworld Legends - Peddler_57: -8111981581859545574
+      Mobile - Otherworld Legends - Peddler_58: 8965046874729499360
+      Mobile - Otherworld Legends - Peddler_59: 7283028327590655457
+      Mobile - Otherworld Legends - Peddler_6: -5749673770486567322
+      Mobile - Otherworld Legends - Peddler_60: -349908104780741785
+      Mobile - Otherworld Legends - Peddler_61: 8886617204623096828
+      Mobile - Otherworld Legends - Peddler_62: -940471766636265383
+      Mobile - Otherworld Legends - Peddler_65: -8521118005478223734
+      Mobile - Otherworld Legends - Peddler_66: 6223396704788865146
+      Mobile - Otherworld Legends - Peddler_67: 4905486549263661400
+      Mobile - Otherworld Legends - Peddler_68: 2769861928065342497
+      Mobile - Otherworld Legends - Peddler_69: 4407712448609605297
+      Mobile - Otherworld Legends - Peddler_7: -9132768946011704179
+      Mobile - Otherworld Legends - Peddler_70: 5121437037083983101
+      Mobile - Otherworld Legends - Peddler_71: -2142988596112275469
+      Mobile - Otherworld Legends - Peddler_72: -2068576734728734318
+      Mobile - Otherworld Legends - Peddler_73: -492501413161691678
+      Mobile - Otherworld Legends - Peddler_74: 2194019426456283488
+      Mobile - Otherworld Legends - Peddler_75: -1170949545622971716
+      Mobile - Otherworld Legends - Peddler_76: 624698764304897208
+      Mobile - Otherworld Legends - Peddler_77: 5142518604934985022
+      Mobile - Otherworld Legends - Peddler_78: 1257409926896389348
+      Mobile - Otherworld Legends - Peddler_79: 7096338777278296294
+      Mobile - Otherworld Legends - Peddler_8: -421690398057709494
+      Mobile - Otherworld Legends - Peddler_80: 1925043886260252233
+      Mobile - Otherworld Legends - Peddler_81: 3566572289070679638
+      Mobile - Otherworld Legends - Peddler_82: -2283595436859960841
+      Mobile - Otherworld Legends - Peddler_83: 7449811642784976169
+      Mobile - Otherworld Legends - Peddler_84: 3330617363059491901
+      Mobile - Otherworld Legends - Peddler_85: -7177556335508699550
+      Mobile - Otherworld Legends - Peddler_86: -6427402091075749311
+      Mobile - Otherworld Legends - Peddler_87: -8229013803779117062
+      Mobile - Otherworld Legends - Peddler_88: -2135316349755852170
+      Mobile - Otherworld Legends - Peddler_89: 9101696255224324865
+      Mobile - Otherworld Legends - Peddler_9: 202578546524032143
+      Mobile - Otherworld Legends - Peddler_90: -3383741601061569055
+      Mobile - Otherworld Legends - Peddler_91: -7213297670820288222
+      Mobile - Otherworld Legends - Peddler_92: -2025860774537195077
+      Mobile - Otherworld Legends - Peddler_93: -8202276883886527962
+      Mobile - Otherworld Legends - Peddler_94: -1595414421422990710
+      Mobile - Otherworld Legends - Peddler_95: -6188557570289157153
+      Mobile - Otherworld Legends - Peddler_96: -6703646938001354897
+      Mobile - Otherworld Legends - Peddler_97: 8943146932277204910
+      Mobile - Otherworld Legends - Peddler_98: -3815830641848321089
+      Mobile - Otherworld Legends - Peddler_99: 5891242508341340527
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

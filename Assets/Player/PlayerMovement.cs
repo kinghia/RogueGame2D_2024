@@ -28,14 +28,14 @@ public class PlayerMovement : MonoBehaviour
         // Lật nhân vật nếu đi sang trái
         if (moveInput.x < 0)
         {
-            spriteRenderer.flipX = true;
+            spriteRenderer.flipX = false;
         }
         else if (moveInput.x > 0)
         {
-            spriteRenderer.flipX = false;
+            spriteRenderer.flipX = true;
         }
 
-        anim.SetFloat("isRun", moveInput.sqrMagnitude);
+        anim.SetFloat("Player_Run", moveInput.sqrMagnitude);
     }
 
     void FixedUpdate()
