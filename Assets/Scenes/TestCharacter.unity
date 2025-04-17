@@ -219,6 +219,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3514920851338168709, guid: ac5fa3876ab4bf749ac43248945f725e, type: 3}
+      propertyPath: attackRate
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 6497645031728494756, guid: ac5fa3876ab4bf749ac43248945f725e, type: 3}
       propertyPath: m_Name
       value: Peddler_Player

@@ -1,107 +1,97 @@
 using UnityEngine;
 using System.Collections;
+using UnityEditor.MPE;
 
 public class PlayerCombat : MonoBehaviour
 {
-    [Header("VFX")]
-    [SerializeField] GameObject particleVFXPrefab;
-    [SerializeField] GameObject particleVFXPrefab2;
-    [SerializeField] GameObject slashVFXPrefab;
-    [SerializeField] GameObject lungeVFXPrefab;
-    [SerializeField] GameObject wideVFXPrefab;
-    [SerializeField] Transform vfxSpawnPoint;
-
     [Header("Dame Range")]
     [SerializeField] Transform attackPoint;
     [SerializeField] float attackRange = .5f;
     [SerializeField] int attackDamage = 40;
+
+    [Header("Combo Attacking")]
+    [SerializeField] int combo = 1;
+    [SerializeField] int comboNumber = 3;
+    [SerializeField] bool attacking;
+    [SerializeField] float comboTiming = .5f;
+    [SerializeField] float comboTempo;
+    private float lastAttackTime = 0f; 
+    private float comboResetTime = 1f; 
     
-    public LayerMask enemyLayers;
     public float attackRate = 2f;
-    
     float nextAttackTime = 0f;
 
-    SpriteRenderer sr;
     Animator anim;
-    PlayerMovement playerMovement;
+    public LayerMask enemyLayers;
 
     void Start()
     {
         anim = GetComponent<Animator>();
-        sr = GetComponent<SpriteRenderer>();
+
+        comboTempo = comboTiming;
     }
 
     void Update()
     {
-        if (Time.time >= nextAttackTime)
+        ComboAttack();
+    }
+
+    void ComboAttack()
+    {
+        if (Input.GetKeyDown(KeyCode.Space) && Time.time >= nextAttackTime)
         {
-            if (Input.GetKeyDown(KeyCode.Space))
+            // Reset combo nếu bấm quá trễ
+            if (Time.time - lastAttackTime > comboResetTime)
             {
-                AttackPixil();
-                nextAttackTime = Time.time + 1f / attackRate;
+                combo = 1;
             }
-            else if (Input.GetKeyDown(KeyCode.Mouse0))
+
+            attacking = true;
+
+            // Gọi animation và logic đòn đánh
+            anim.SetTrigger("Attacking" + combo);
+            AttackNormal();
+
+            lastAttackTime = Time.time;
+            nextAttackTime = Time.time + 1f / attackRate;
+
+            combo++;
+
+            // Reset combo nếu đã đến max
+            if (combo > comboNumber)
             {
-                AttackLunge();
-                nextAttackTime = Time.time + 1f / attackRate;
+                combo = 1;
             }
-            else if (Input.GetKeyDown(KeyCode.Mouse1))
-            {
-                AttackWide();
-                nextAttackTime = Time.time + 1f / attackRate;
-            }
+        }
+
+        // Tự động tắt trạng thái attacking nếu không bấm nữa sau 1 khoảng
+        if (attacking && Time.time - lastAttackTime > comboResetTime)
+        {
+            attacking = false;
+            combo = 1;
         }
     }
 
-    //void OnMouseDown()
-    //{
-    //    AttackPixil();  
-    //}
-
-    void AttackPixil()
+    void AttackNormal()
     {
-        anim.SetTrigger("Player_Pixil");
-
         Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
 
         foreach (Collider2D enemy in hitEnemies)
         {
-            StartCoroutine(DelayedHit(enemy, .5f));
+            enemy.GetComponent<EnemyHealth>().TakeDamage(attackDamage);
+            Debug.Log("hit enemy");
+            //StartCoroutine(DelayedHit(enemy, .5f));
         }
     }
 
     IEnumerator DelayedHit(Collider2D enemy, float delay)
-{
-    yield return new WaitForSeconds(delay);
-
-    if (enemy != null)
     {
-        enemy.GetComponent<EnemyHealth>().TakeDamage(attackDamage);
-        Debug.Log("hit enemy");
-    }
-}
+        yield return new WaitForSeconds(delay);
 
-    void AttackLunge()
-    {
-        anim.SetTrigger("Player_Lunge");
-
-        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
-
-        foreach (Collider2D enemy in hitEnemies)
+        if (enemy != null)
         {
-            // todo
-        }
-    }
-
-    void AttackWide()
-    {
-        anim.SetTrigger("Player_Wide");
-
-        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
-
-        foreach (Collider2D enemy in hitEnemies)
-        {
-            // todo
+            enemy.GetComponent<EnemyHealth>().TakeDamage(attackDamage);
+            Debug.Log("hit enemy");
         }
     }
 
@@ -110,36 +100,5 @@ public class PlayerCombat : MonoBehaviour
         if (attackPoint == null) return;
 
         Gizmos.DrawWireSphere(attackPoint.position, attackRange);        
-    }
-
-    public void SpawnPixilVFX()
-    {
-        SpawnAndFlipVFX(particleVFXPrefab, 0.8f);
-        SpawnAndFlipVFX(particleVFXPrefab2, 0.8f);
-        SpawnAndFlipVFX(slashVFXPrefab, 0.5f);
-    }
-
-    public void SpawnLungeVFX()
-    {
-        SpawnAndFlipVFX(lungeVFXPrefab, .3f);
-    }
-
-    public void SpawnWideVFX()
-    {
-        SpawnAndFlipVFX(wideVFXPrefab, .3f);
-    }
-
-    private void SpawnAndFlipVFX(GameObject prefab, float lifetime)
-    {
-        if (prefab == null || vfxSpawnPoint == null) return;
-
-        GameObject vfx = Instantiate(prefab, vfxSpawnPoint.position, Quaternion.identity, transform);
-
-        // Flip theo spriteRenderer.flipX
-        Vector3 scale = vfx.transform.localScale;
-        scale.x = sr.flipX ? -Mathf.Abs(scale.x) : Mathf.Abs(scale.x);
-        vfx.transform.localScale = scale;
-
-        Destroy(vfx, lifetime);
     }
 }
