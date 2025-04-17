@@ -273,12 +273,32 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2706107950869850088, guid: ac5fa3876ab4bf749ac43248945f725e, type: 3}
+      propertyPath: dashSpeed
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2706107950869850088, guid: ac5fa3876ab4bf749ac43248945f725e, type: 3}
+      propertyPath: dashDuration
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3514920851338168709, guid: ac5fa3876ab4bf749ac43248945f725e, type: 3}
+      propertyPath: attackRate
+      value: 4.34
+      objectReference: {fileID: 0}
     - target: {fileID: 3514920851338168709, guid: ac5fa3876ab4bf749ac43248945f725e, type: 3}
       propertyPath: comboNumber
       value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 4117104274409738068, guid: ac5fa3876ab4bf749ac43248945f725e, type: 3}
       propertyPath: m_BodyType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4117104274409738068, guid: ac5fa3876ab4bf749ac43248945f725e, type: 3}
+      propertyPath: m_Constraints
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4117104274409738068, guid: ac5fa3876ab4bf749ac43248945f725e, type: 3}
+      propertyPath: m_Interpolate
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6497645031728494756, guid: ac5fa3876ab4bf749ac43248945f725e, type: 3}

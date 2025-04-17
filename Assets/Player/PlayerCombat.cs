@@ -59,6 +59,11 @@ public class PlayerCombat : MonoBehaviour
 
             combo++;
 
+            if (combo > 3)
+            {
+                StartCoroutine(ComboDash(0.3f, .1f));
+            }   
+
             if (combo > comboNumber)
             {
                 combo = 1;
@@ -83,6 +88,22 @@ public class PlayerCombat : MonoBehaviour
             Debug.Log("hit enemy");
             //StartCoroutine(DelayedHit(enemy, .5f));
         }
+    }
+
+    IEnumerator ComboDash(float dashDistance, float dashTime)
+    {
+        float elapsed = 0f;
+        Vector3 startPos = transform.position;
+        Vector3 endPos = startPos + (playerMovement.isFacingRight ? Vector3.right : Vector3.left) * dashDistance;
+
+        while (elapsed < dashTime)
+        {
+            transform.position = Vector3.Lerp(startPos, endPos, elapsed / dashTime);
+            elapsed += Time.deltaTime;
+            yield return null;
+        }
+
+        transform.position = endPos;
     }
 
     IEnumerator DelayedHit(Collider2D enemy, float delay)
