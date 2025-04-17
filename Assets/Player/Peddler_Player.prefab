@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 3514920851338168709}
   m_Layer: 0
   m_Name: Peddler_Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -83,7 +83,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 9124965578364468345, guid: f78f9779fd01cd347afeaed351921dd7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.53125, y: 1.4375}
@@ -175,10 +175,10 @@ MonoBehaviour:
   attacking: 0
   comboTiming: 0.5
   comboTempo: 0
-  attackRate: 2
+  attackRate: 3
   enemyLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
 --- !u!1 &6527159374199102837
 GameObject:
   m_ObjectHideFlags: 0
@@ -204,7 +204,7 @@ Transform:
   m_GameObject: {fileID: 6527159374199102837}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.467, y: 0.298, z: 0}
+  m_LocalPosition: {x: 0.467, y: 0.298, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

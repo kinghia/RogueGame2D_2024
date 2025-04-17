@@ -3,44 +3,57 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float moveSpeed = 5f; // Tốc độ di chuyển
+    public float moveSpeed = 5f;
     public float MoveSpeed {get {return moveSpeed;}}
-    Rigidbody2D rb;
     public Vector2 moveInput;
-    SpriteRenderer spriteRenderer;
+
+    public bool isRun;
+
     Animator anim;
+    Rigidbody2D rb;
+    PlayerCombat playerCombat;
     
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
-        spriteRenderer = GetComponent<SpriteRenderer>();
+        playerCombat = FindFirstObjectByType<PlayerCombat>();
     }
 
     void Update()
     {
-        // Nhận input từ bàn phím
-        moveInput.x = Input.GetAxisRaw("Horizontal");
-        moveInput.y = Input.GetAxisRaw("Vertical");  
-        moveInput.Normalize();
+        Movement();
+    }
 
-        // Lật nhân vật nếu đi sang trái
-        if (moveInput.x < 0)
+    void Movement()
+    {
+        if (!playerCombat.Attacking)
         {
-            spriteRenderer.flipX = false;
+            moveInput.x = Input.GetAxisRaw("Horizontal");
+            moveInput.y = Input.GetAxisRaw("Vertical");
+            moveInput.Normalize();
+
+            if (moveInput.x > 0)
+            {
+                transform.rotation = Quaternion.Euler(0f, 0f, 0f); // nhìn sang phải          
+            }
+            else if (moveInput.x < 0)
+            {
+                transform.rotation = Quaternion.Euler(0f, 180f, 0f); // xoay sang trái
+            }
         }
-        else if (moveInput.x > 0)
+        else 
         {
-            spriteRenderer.flipX = true;
+            moveInput = Vector2.zero;
         }
+        
 
         anim.SetFloat("Player_Run", moveInput.sqrMagnitude);
     }
 
     void FixedUpdate()
     {
-        // Di chuyển nhân vật
         //rb.linearVelocity = moveInput * moveSpeed;
         rb.MovePosition(rb.position + moveInput * moveSpeed * Time.fixedDeltaTime);
     }

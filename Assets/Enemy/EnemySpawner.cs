@@ -5,7 +5,6 @@ public class EnemySpawner : MonoBehaviour
 {
     [SerializeField] GameObject enemyPrefabs;
     [SerializeField] Transform rangePlayer;
-    [SerializeField] Transform enemyParent;
     [SerializeField] float minDistance = 5f;
     [SerializeField] float maxRange = 15f;
 
@@ -23,7 +22,7 @@ public class EnemySpawner : MonoBehaviour
             Vector2 randomDirection = Random.insideUnitCircle.normalized * Random.Range(minDistance, maxRange);
             Vector3 spawnPosition = rangePlayer.position + new Vector3(randomDirection.x, randomDirection.y, 0 );
             yield return new WaitForSeconds(timeSpawn);
-            Instantiate(enemyPrefabs, spawnPosition, Quaternion.identity, enemyParent);
+            Instantiate(enemyPrefabs, spawnPosition, Quaternion.identity, this.transform);
             Debug.Log("spawn enemy");
         }
     }

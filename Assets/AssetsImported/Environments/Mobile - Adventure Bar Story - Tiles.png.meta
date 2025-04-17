@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 9a738bb012097ab42b541dafde1c7d9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -336710617415214102
+    second: Mobile - Adventure Bar Story - Tiles_0
+  - first:
+      213: -3348186697406947641
+    second: Mobile - Adventure Bar Story - Tiles_1
+  - first:
+      213: 4468542079073977799
+    second: Mobile - Adventure Bar Story - Tiles_2
+  - first:
+      213: 8146376960019071566
+    second: Mobile - Adventure Bar Story - Tiles_3
+  - first:
+      213: 5650585608629927142
+    second: Mobile - Adventure Bar Story - Tiles_4
+  - first:
+      213: -3948639623776260638
+    second: Mobile - Adventure Bar Story - Tiles_5
+  - first:
+      213: 518328722405383859
+    second: Mobile - Adventure Bar Story - Tiles_6
+  - first:
+      213: -7835500160498571837
+    second: Mobile - Adventure Bar Story - Tiles_7
+  - first:
+      213: 3310356336080769716
+    second: Mobile - Adventure Bar Story - Tiles_8
+  - first:
+      213: 8675773297749150751
+    second: Mobile - Adventure Bar Story - Tiles_9
+  - first:
+      213: 3669625040385710719
+    second: Mobile - Adventure Bar Story - Tiles_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1956
+        width: 384
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb1dd83a73c35bf0800000000000000
+      internalID: -336710617415214102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1562
+        width: 384
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cede5b20f9d881d0800000000000000
+      internalID: -3348186697406947641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1952
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c507177853730e30800000000000000
+      internalID: 4468542079073977799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1956
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e420d5c0faebd0170800000000000000
+      internalID: 8146376960019071566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1956
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec32574ca9ea6e40800000000000000
+      internalID: 5650585608629927142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1956
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eda8c6de2d9339c0800000000000000
+      internalID: -3948639623776260638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1176
+        width: 384
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bedadf0a39713700800000000000000
+      internalID: 518328722405383859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 384
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c567f74e16b24390800000000000000
+      internalID: -7835500160498571837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 384
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2de047c8fb0fd20800000000000000
+      internalID: 3310356336080769716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 384
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c482c19d9866870800000000000000
+      internalID: 8675773297749150751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 6
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a911f18802de230800000000000000
+      internalID: 3669625040385710719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f009aac2fd043e74883cf10627cec84f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - Adventure Bar Story - Tiles_0: -336710617415214102
+      Mobile - Adventure Bar Story - Tiles_1: -3348186697406947641
+      Mobile - Adventure Bar Story - Tiles_10: 3669625040385710719
+      Mobile - Adventure Bar Story - Tiles_2: 4468542079073977799
+      Mobile - Adventure Bar Story - Tiles_3: 8146376960019071566
+      Mobile - Adventure Bar Story - Tiles_4: 5650585608629927142
+      Mobile - Adventure Bar Story - Tiles_5: -3948639623776260638
+      Mobile - Adventure Bar Story - Tiles_6: 518328722405383859
+      Mobile - Adventure Bar Story - Tiles_7: -7835500160498571837
+      Mobile - Adventure Bar Story - Tiles_8: 3310356336080769716
+      Mobile - Adventure Bar Story - Tiles_9: 8675773297749150751
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,34 +1,35 @@
 using UnityEngine;
 using System.Collections;
-using UnityEditor.MPE;
+using System.Collections.Generic;
 
 public class PlayerCombat : MonoBehaviour
 {
     [Header("Dame Range")]
     [SerializeField] Transform attackPoint;
+    public Transform AttackPoint {get { return attackPoint;}}
     [SerializeField] float attackRange = .5f;
     [SerializeField] int attackDamage = 40;
 
     [Header("Combo Attacking")]
     [SerializeField] int combo = 1;
     [SerializeField] int comboNumber = 3;
-    [SerializeField] bool attacking;
+    [SerializeField] bool attacking; public bool Attacking { get { return attacking;}}   
     [SerializeField] float comboTiming = .5f;
-    [SerializeField] float comboTempo;
     private float lastAttackTime = 0f; 
     private float comboResetTime = 1f; 
     
-    public float attackRate = 2f;
+    [SerializeField] [Range(2f, 6f)] float  attackRate = 2f;
     float nextAttackTime = 0f;
 
-    Animator anim;
     public LayerMask enemyLayers;
+
+    Animator anim;
+    PlayerMovement playerMovement;
 
     void Start()
     {
         anim = GetComponent<Animator>();
-
-        comboTempo = comboTiming;
+        playerMovement = FindAnyObjectByType<PlayerMovement>();
     }
 
     void Update()
@@ -46,9 +47,10 @@ public class PlayerCombat : MonoBehaviour
                 combo = 1;
             }
 
+            //playerMovement.isRun = false;   
+
             attacking = true;
 
-            // Gọi animation và logic đòn đánh
             anim.SetTrigger("Attacking" + combo);
             AttackNormal();
 
@@ -57,17 +59,16 @@ public class PlayerCombat : MonoBehaviour
 
             combo++;
 
-            // Reset combo nếu đã đến max
             if (combo > comboNumber)
             {
                 combo = 1;
             }
         }
 
-        // Tự động tắt trạng thái attacking nếu không bấm nữa sau 1 khoảng
-        if (attacking && Time.time - lastAttackTime > comboResetTime)
+        if (attacking && Time.time - lastAttackTime > .5f)
         {
             attacking = false;
+            //playerMovement.isRun = true;
             combo = 1;
         }
     }
