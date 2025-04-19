@@ -1,0 +1,5645 @@
+fileFormatVersion: 2
+guid: 7b81709b9c055ea42ac1327e26ab467e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7114028666943569219
+    second: Mobile - Otherworld Legends - Logan_0
+  - first:
+      213: 2642522673448122516
+    second: Mobile - Otherworld Legends - Logan_1
+  - first:
+      213: 3301048680545999067
+    second: Mobile - Otherworld Legends - Logan_2
+  - first:
+      213: 546853999669343199
+    second: Mobile - Otherworld Legends - Logan_3
+  - first:
+      213: 2241678599433122626
+    second: Mobile - Otherworld Legends - Logan_4
+  - first:
+      213: -2469299271865959887
+    second: Mobile - Otherworld Legends - Logan_5
+  - first:
+      213: -4306319666963202432
+    second: Mobile - Otherworld Legends - Logan_6
+  - first:
+      213: 240465436685629630
+    second: Mobile - Otherworld Legends - Logan_7
+  - first:
+      213: 7541439650366533137
+    second: Mobile - Otherworld Legends - Logan_8
+  - first:
+      213: 6248627620877513614
+    second: Mobile - Otherworld Legends - Logan_9
+  - first:
+      213: 1798802464182429289
+    second: Mobile - Otherworld Legends - Logan_10
+  - first:
+      213: 7986903935984417704
+    second: Mobile - Otherworld Legends - Logan_11
+  - first:
+      213: -4306116599239787286
+    second: Mobile - Otherworld Legends - Logan_12
+  - first:
+      213: 1509331973775845575
+    second: Mobile - Otherworld Legends - Logan_13
+  - first:
+      213: -8898701855397931846
+    second: Mobile - Otherworld Legends - Logan_14
+  - first:
+      213: 2169490275587572801
+    second: Mobile - Otherworld Legends - Logan_15
+  - first:
+      213: -6116441014018259327
+    second: Mobile - Otherworld Legends - Logan_16
+  - first:
+      213: 9163929701648817845
+    second: Mobile - Otherworld Legends - Logan_17
+  - first:
+      213: 6920497893220034211
+    second: Mobile - Otherworld Legends - Logan_18
+  - first:
+      213: 7234171916209848970
+    second: Mobile - Otherworld Legends - Logan_19
+  - first:
+      213: 3001957644127204536
+    second: Mobile - Otherworld Legends - Logan_20
+  - first:
+      213: -5142896485794225965
+    second: Mobile - Otherworld Legends - Logan_21
+  - first:
+      213: 1400363116692621609
+    second: Mobile - Otherworld Legends - Logan_22
+  - first:
+      213: -4242434747692748445
+    second: Mobile - Otherworld Legends - Logan_23
+  - first:
+      213: 6475223774103788224
+    second: Mobile - Otherworld Legends - Logan_24
+  - first:
+      213: -4889139136171582062
+    second: Mobile - Otherworld Legends - Logan_25
+  - first:
+      213: -4804716914107708666
+    second: Mobile - Otherworld Legends - Logan_26
+  - first:
+      213: -4333453974148308082
+    second: Mobile - Otherworld Legends - Logan_27
+  - first:
+      213: 6096499924243341292
+    second: Mobile - Otherworld Legends - Logan_28
+  - first:
+      213: -4875147862641862541
+    second: Mobile - Otherworld Legends - Logan_29
+  - first:
+      213: -9004982039095486757
+    second: Mobile - Otherworld Legends - Logan_30
+  - first:
+      213: 8250980116601177838
+    second: Mobile - Otherworld Legends - Logan_31
+  - first:
+      213: 431820654319334913
+    second: Mobile - Otherworld Legends - Logan_32
+  - first:
+      213: -7348441624930821532
+    second: Mobile - Otherworld Legends - Logan_33
+  - first:
+      213: 2969244083603717740
+    second: Mobile - Otherworld Legends - Logan_34
+  - first:
+      213: 1481722972555371960
+    second: Mobile - Otherworld Legends - Logan_35
+  - first:
+      213: -451491360743031654
+    second: Mobile - Otherworld Legends - Logan_36
+  - first:
+      213: 2197726257835406475
+    second: Mobile - Otherworld Legends - Logan_37
+  - first:
+      213: -4748982643785859261
+    second: Mobile - Otherworld Legends - Logan_38
+  - first:
+      213: 8239159846537568461
+    second: Mobile - Otherworld Legends - Logan_39
+  - first:
+      213: -5763103758456345626
+    second: Mobile - Otherworld Legends - Logan_40
+  - first:
+      213: -6076039666738669811
+    second: Mobile - Otherworld Legends - Logan_41
+  - first:
+      213: -158475532824128006
+    second: Mobile - Otherworld Legends - Logan_42
+  - first:
+      213: 3325769341743722470
+    second: Mobile - Otherworld Legends - Logan_43
+  - first:
+      213: -8915238911709391741
+    second: Mobile - Otherworld Legends - Logan_44
+  - first:
+      213: -7144036752792595840
+    second: Mobile - Otherworld Legends - Logan_45
+  - first:
+      213: -550897215007573430
+    second: Mobile - Otherworld Legends - Logan_46
+  - first:
+      213: 7054760254710952360
+    second: Mobile - Otherworld Legends - Logan_47
+  - first:
+      213: 3751825654365963251
+    second: Mobile - Otherworld Legends - Logan_48
+  - first:
+      213: 6051240742961078309
+    second: Mobile - Otherworld Legends - Logan_49
+  - first:
+      213: 6680294896777995488
+    second: Mobile - Otherworld Legends - Logan_50
+  - first:
+      213: 3726657089308058983
+    second: Mobile - Otherworld Legends - Logan_51
+  - first:
+      213: -2013266397021849904
+    second: Mobile - Otherworld Legends - Logan_52
+  - first:
+      213: -3968976596935971837
+    second: Mobile - Otherworld Legends - Logan_53
+  - first:
+      213: 2734925477406071062
+    second: Mobile - Otherworld Legends - Logan_54
+  - first:
+      213: 8933296830829451170
+    second: Mobile - Otherworld Legends - Logan_55
+  - first:
+      213: 3216178121912913124
+    second: Mobile - Otherworld Legends - Logan_56
+  - first:
+      213: 8534131878191330697
+    second: Mobile - Otherworld Legends - Logan_57
+  - first:
+      213: 2723369297662631998
+    second: Mobile - Otherworld Legends - Logan_58
+  - first:
+      213: 7389951160831830471
+    second: Mobile - Otherworld Legends - Logan_59
+  - first:
+      213: 6791724875540341795
+    second: Mobile - Otherworld Legends - Logan_60
+  - first:
+      213: 2505940606929908572
+    second: Mobile - Otherworld Legends - Logan_61
+  - first:
+      213: -4296551757134906938
+    second: Mobile - Otherworld Legends - Logan_62
+  - first:
+      213: -8544477229577392615
+    second: Mobile - Otherworld Legends - Logan_63
+  - first:
+      213: -8562154640594719260
+    second: Mobile - Otherworld Legends - Logan_64
+  - first:
+      213: -1395149588086764569
+    second: Mobile - Otherworld Legends - Logan_65
+  - first:
+      213: -6705473064865744815
+    second: Mobile - Otherworld Legends - Logan_66
+  - first:
+      213: 4756454743886167779
+    second: Mobile - Otherworld Legends - Logan_67
+  - first:
+      213: 187607399713037635
+    second: Mobile - Otherworld Legends - Logan_68
+  - first:
+      213: -1965814431225226547
+    second: Mobile - Otherworld Legends - Logan_69
+  - first:
+      213: -7698402595098689803
+    second: Mobile - Otherworld Legends - Logan_70
+  - first:
+      213: -562875752943012953
+    second: Mobile - Otherworld Legends - Logan_71
+  - first:
+      213: -3789027719141903777
+    second: Mobile - Otherworld Legends - Logan_72
+  - first:
+      213: -5585210042052908964
+    second: Mobile - Otherworld Legends - Logan_73
+  - first:
+      213: 8528957696624608384
+    second: Mobile - Otherworld Legends - Logan_74
+  - first:
+      213: -1262400493681078075
+    second: Mobile - Otherworld Legends - Logan_75
+  - first:
+      213: 1408382793334658846
+    second: Mobile - Otherworld Legends - Logan_76
+  - first:
+      213: -4188078064887923270
+    second: Mobile - Otherworld Legends - Logan_77
+  - first:
+      213: 1384036261512797130
+    second: Mobile - Otherworld Legends - Logan_78
+  - first:
+      213: 9151334617287884163
+    second: Mobile - Otherworld Legends - Logan_79
+  - first:
+      213: -3312310364252084130
+    second: Mobile - Otherworld Legends - Logan_80
+  - first:
+      213: 2737555959432252293
+    second: Mobile - Otherworld Legends - Logan_81
+  - first:
+      213: 6870606867761943666
+    second: Mobile - Otherworld Legends - Logan_82
+  - first:
+      213: 2254588048000983723
+    second: Mobile - Otherworld Legends - Logan_83
+  - first:
+      213: 6480584309686394803
+    second: Mobile - Otherworld Legends - Logan_84
+  - first:
+      213: -4023974450133018039
+    second: Mobile - Otherworld Legends - Logan_85
+  - first:
+      213: -33380502650544688
+    second: Mobile - Otherworld Legends - Logan_86
+  - first:
+      213: 8216531523831371978
+    second: Mobile - Otherworld Legends - Logan_87
+  - first:
+      213: 7985417825818755925
+    second: Mobile - Otherworld Legends - Logan_88
+  - first:
+      213: -6495180119510560417
+    second: Mobile - Otherworld Legends - Logan_89
+  - first:
+      213: 1034864194482875091
+    second: Mobile - Otherworld Legends - Logan_90
+  - first:
+      213: 5261797927067584812
+    second: Mobile - Otherworld Legends - Logan_91
+  - first:
+      213: 3586251090976811514
+    second: Mobile - Otherworld Legends - Logan_92
+  - first:
+      213: 4021563281934517418
+    second: Mobile - Otherworld Legends - Logan_93
+  - first:
+      213: 1673634837004230023
+    second: Mobile - Otherworld Legends - Logan_94
+  - first:
+      213: 6270455088689618785
+    second: Mobile - Otherworld Legends - Logan_95
+  - first:
+      213: -1293807208353614465
+    second: Mobile - Otherworld Legends - Logan_96
+  - first:
+      213: 3106367606065102319
+    second: Mobile - Otherworld Legends - Logan_97
+  - first:
+      213: 777972710292378852
+    second: Mobile - Otherworld Legends - Logan_98
+  - first:
+      213: 4138564171326599503
+    second: Mobile - Otherworld Legends - Logan_99
+  - first:
+      213: 5077903555419950982
+    second: Mobile - Otherworld Legends - Logan_100
+  - first:
+      213: -6256408828040008525
+    second: Mobile - Otherworld Legends - Logan_101
+  - first:
+      213: 8116467949835742854
+    second: Mobile - Otherworld Legends - Logan_102
+  - first:
+      213: 399197767667490776
+    second: Mobile - Otherworld Legends - Logan_103
+  - first:
+      213: -2298205648769270233
+    second: Mobile - Otherworld Legends - Logan_104
+  - first:
+      213: 2513101904634554999
+    second: Mobile - Otherworld Legends - Logan_105
+  - first:
+      213: 961891425028172874
+    second: Mobile - Otherworld Legends - Logan_106
+  - first:
+      213: 8577112579518793350
+    second: Mobile - Otherworld Legends - Logan_107
+  - first:
+      213: 6068294040425890600
+    second: Mobile - Otherworld Legends - Logan_108
+  - first:
+      213: -6466173325785409313
+    second: Mobile - Otherworld Legends - Logan_109
+  - first:
+      213: 5731922223430562152
+    second: Mobile - Otherworld Legends - Logan_110
+  - first:
+      213: 2090511354730440703
+    second: Mobile - Otherworld Legends - Logan_111
+  - first:
+      213: 5420788076925068438
+    second: Mobile - Otherworld Legends - Logan_112
+  - first:
+      213: -3751402316400545571
+    second: Mobile - Otherworld Legends - Logan_113
+  - first:
+      213: -6578649380837035847
+    second: Mobile - Otherworld Legends - Logan_114
+  - first:
+      213: -1147012193962292596
+    second: Mobile - Otherworld Legends - Logan_115
+  - first:
+      213: -8661514227556425187
+    second: Mobile - Otherworld Legends - Logan_116
+  - first:
+      213: 632782469705540735
+    second: Mobile - Otherworld Legends - Logan_117
+  - first:
+      213: -6444200477963014270
+    second: Mobile - Otherworld Legends - Logan_118
+  - first:
+      213: -7954666521392086890
+    second: Mobile - Otherworld Legends - Logan_119
+  - first:
+      213: 592838220031752834
+    second: Mobile - Otherworld Legends - Logan_120
+  - first:
+      213: -2368424307840530765
+    second: Mobile - Otherworld Legends - Logan_121
+  - first:
+      213: 5884287828614832324
+    second: Mobile - Otherworld Legends - Logan_122
+  - first:
+      213: -319907990164413585
+    second: Mobile - Otherworld Legends - Logan_123
+  - first:
+      213: 6138218059810663437
+    second: Mobile - Otherworld Legends - Logan_124
+  - first:
+      213: -5813859834620855326
+    second: Mobile - Otherworld Legends - Logan_125
+  - first:
+      213: -6159738500875976544
+    second: Mobile - Otherworld Legends - Logan_126
+  - first:
+      213: -6788236559470616658
+    second: Mobile - Otherworld Legends - Logan_127
+  - first:
+      213: -4581453024352821471
+    second: Mobile - Otherworld Legends - Logan_128
+  - first:
+      213: 4595031378265983323
+    second: Mobile - Otherworld Legends - Logan_129
+  - first:
+      213: 8886679707309547942
+    second: Mobile - Otherworld Legends - Logan_130
+  - first:
+      213: 5025973902328385556
+    second: Mobile - Otherworld Legends - Logan_131
+  - first:
+      213: 5465242056153812299
+    second: Mobile - Otherworld Legends - Logan_132
+  - first:
+      213: 352316757682232627
+    second: Mobile - Otherworld Legends - Logan_133
+  - first:
+      213: 659471923014732546
+    second: Mobile - Otherworld Legends - Logan_134
+  - first:
+      213: -1648110024470842118
+    second: Mobile - Otherworld Legends - Logan_135
+  - first:
+      213: -942367910717591658
+    second: Mobile - Otherworld Legends - Logan_136
+  - first:
+      213: -382364478056445352
+    second: Mobile - Otherworld Legends - Logan_137
+  - first:
+      213: -3978917564931017288
+    second: Mobile - Otherworld Legends - Logan_138
+  - first:
+      213: -4962013623689753247
+    second: Mobile - Otherworld Legends - Logan_139
+  - first:
+      213: -6881131497737740088
+    second: Mobile - Otherworld Legends - Logan_140
+  - first:
+      213: -1565373544696904210
+    second: Mobile - Otherworld Legends - Logan_141
+  - first:
+      213: -8450868152278192255
+    second: Mobile - Otherworld Legends - Logan_142
+  - first:
+      213: 6860102576282395466
+    second: Mobile - Otherworld Legends - Logan_143
+  - first:
+      213: -1432607791991889316
+    second: Mobile - Otherworld Legends - Logan_144
+  - first:
+      213: 2871641633483275430
+    second: Mobile - Otherworld Legends - Logan_145
+  - first:
+      213: 4922446711317750738
+    second: Mobile - Otherworld Legends - Logan_146
+  - first:
+      213: -6401065170634958578
+    second: Mobile - Otherworld Legends - Logan_147
+  - first:
+      213: -5026013037846017561
+    second: Mobile - Otherworld Legends - Logan_148
+  - first:
+      213: -3788534362432116768
+    second: Mobile - Otherworld Legends - Logan_149
+  - first:
+      213: -2869113441119583921
+    second: Mobile - Otherworld Legends - Logan_150
+  - first:
+      213: 3278187896368551856
+    second: Mobile - Otherworld Legends - Logan_151
+  - first:
+      213: 4452465991620820412
+    second: Mobile - Otherworld Legends - Logan_152
+  - first:
+      213: -3018359307235914668
+    second: Mobile - Otherworld Legends - Logan_153
+  - first:
+      213: -3206596990782989556
+    second: Mobile - Otherworld Legends - Logan_154
+  - first:
+      213: 2798016626653723464
+    second: Mobile - Otherworld Legends - Logan_155
+  - first:
+      213: 6386629593107335368
+    second: Mobile - Otherworld Legends - Logan_156
+  - first:
+      213: 5958574248762327194
+    second: Mobile - Otherworld Legends - Logan_157
+  - first:
+      213: -2514089881406583678
+    second: Mobile - Otherworld Legends - Logan_158
+  - first:
+      213: -2969952860273482034
+    second: Mobile - Otherworld Legends - Logan_159
+  - first:
+      213: -4076086955498827057
+    second: Mobile - Otherworld Legends - Logan_160
+  - first:
+      213: -7918133265335420745
+    second: Mobile - Otherworld Legends - Logan_161
+  - first:
+      213: 8341937473217925867
+    second: Mobile - Otherworld Legends - Logan_162
+  - first:
+      213: -2980192795245473875
+    second: Mobile - Otherworld Legends - Logan_163
+  - first:
+      213: -5204659123053934266
+    second: Mobile - Otherworld Legends - Logan_164
+  - first:
+      213: 7413548882561373878
+    second: Mobile - Otherworld Legends - Logan_165
+  - first:
+      213: -6319705637302550403
+    second: Mobile - Otherworld Legends - Logan_166
+  - first:
+      213: -4482766882807351246
+    second: Mobile - Otherworld Legends - Logan_167
+  - first:
+      213: 4765964350746561748
+    second: Mobile - Otherworld Legends - Logan_168
+  - first:
+      213: -7150890025943905598
+    second: Mobile - Otherworld Legends - Logan_169
+  - first:
+      213: 6425055882466903057
+    second: Mobile - Otherworld Legends - Logan_170
+  - first:
+      213: 7007601397552735116
+    second: Mobile - Otherworld Legends - Logan_171
+  - first:
+      213: -3299835007534529210
+    second: Mobile - Otherworld Legends - Logan_172
+  - first:
+      213: -6006274520982667062
+    second: Mobile - Otherworld Legends - Logan_173
+  - first:
+      213: 4732470549065766249
+    second: Mobile - Otherworld Legends - Logan_174
+  - first:
+      213: 5750343625906709086
+    second: Mobile - Otherworld Legends - Logan_175
+  - first:
+      213: -6198577088885604880
+    second: Mobile - Otherworld Legends - Logan_176
+  - first:
+      213: -5036496686698586483
+    second: Mobile - Otherworld Legends - Logan_177
+  - first:
+      213: 1890981643567413978
+    second: Mobile - Otherworld Legends - Logan_178
+  - first:
+      213: 4493213537077508792
+    second: Mobile - Otherworld Legends - Logan_179
+  - first:
+      213: 3927350486660798241
+    second: Mobile - Otherworld Legends - Logan_180
+  - first:
+      213: -6950685614925508330
+    second: Mobile - Otherworld Legends - Logan_181
+  - first:
+      213: -2669929820477781021
+    second: Mobile - Otherworld Legends - Logan_182
+  - first:
+      213: -6153147296658745379
+    second: Mobile - Otherworld Legends - Logan_183
+  - first:
+      213: 6812801652474870075
+    second: Mobile - Otherworld Legends - Logan_184
+  - first:
+      213: 4443225320399574870
+    second: Mobile - Otherworld Legends - Logan_185
+  - first:
+      213: 94992248295012476
+    second: Mobile - Otherworld Legends - Logan_186
+  - first:
+      213: -2405943310130485078
+    second: Mobile - Otherworld Legends - Logan_187
+  - first:
+      213: 5171440430242814142
+    second: Mobile - Otherworld Legends - Logan_188
+  - first:
+      213: -6657015800574092740
+    second: Mobile - Otherworld Legends - Logan_189
+  - first:
+      213: 5481857290944446701
+    second: Mobile - Otherworld Legends - Logan_190
+  - first:
+      213: -3983674611648766883
+    second: Mobile - Otherworld Legends - Logan_191
+  - first:
+      213: -6896702130691724458
+    second: Mobile - Otherworld Legends - Logan_192
+  - first:
+      213: -3972389130946853311
+    second: Mobile - Otherworld Legends - Logan_193
+  - first:
+      213: -745538843000849843
+    second: Mobile - Otherworld Legends - Logan_194
+  - first:
+      213: 5050330624287793983
+    second: Mobile - Otherworld Legends - Logan_195
+  - first:
+      213: 2561806661589041555
+    second: Mobile - Otherworld Legends - Logan_196
+  - first:
+      213: -2404224541758796255
+    second: Mobile - Otherworld Legends - Logan_197
+  - first:
+      213: 5432874692259014540
+    second: Mobile - Otherworld Legends - Logan_198
+  - first:
+      213: 4316341466109368041
+    second: Mobile - Otherworld Legends - Logan_199
+  - first:
+      213: 3457812701539502200
+    second: Mobile - Otherworld Legends - Logan_200
+  - first:
+      213: -1838787239308412323
+    second: Mobile - Otherworld Legends - Logan_201
+  - first:
+      213: -6910288560486609851
+    second: Mobile - Otherworld Legends - Logan_202
+  - first:
+      213: -3557818069732397911
+    second: Mobile - Otherworld Legends - Logan_203
+  - first:
+      213: 2850733817883016938
+    second: Mobile - Otherworld Legends - Logan_204
+  - first:
+      213: 9102381335223440
+    second: Mobile - Otherworld Legends - Logan_205
+  - first:
+      213: 7013926608980846274
+    second: Mobile - Otherworld Legends - Logan_206
+  - first:
+      213: 772897442958215120
+    second: Mobile - Otherworld Legends - Logan_207
+  - first:
+      213: -136169028030587421
+    second: Mobile - Otherworld Legends - Logan_208
+  - first:
+      213: 4543883061227577070
+    second: Mobile - Otherworld Legends - Logan_209
+  - first:
+      213: 1939645529927419322
+    second: Mobile - Otherworld Legends - Logan_210
+  - first:
+      213: 709010447469517156
+    second: Mobile - Otherworld Legends - Logan_211
+  - first:
+      213: -2984045289167634833
+    second: Mobile - Otherworld Legends - Logan_212
+  - first:
+      213: -3620864425431563829
+    second: Mobile - Otherworld Legends - Logan_213
+  - first:
+      213: -4511686903624783363
+    second: Mobile - Otherworld Legends - Logan_214
+  - first:
+      213: -6357681475515710871
+    second: Mobile - Otherworld Legends - Logan_215
+  - first:
+      213: -5163660148748750092
+    second: Mobile - Otherworld Legends - Logan_216
+  - first:
+      213: -2400594379159713277
+    second: Mobile - Otherworld Legends - Logan_217
+  - first:
+      213: 2498401986786957202
+    second: Mobile - Otherworld Legends - Logan_218
+  - first:
+      213: 7087710570174621949
+    second: Mobile - Otherworld Legends - Logan_219
+  - first:
+      213: 9086892995314603039
+    second: Mobile - Otherworld Legends - Logan_220
+  - first:
+      213: -1890794257970468637
+    second: Mobile - Otherworld Legends - Logan_221
+  - first:
+      213: 8054374246807113152
+    second: Mobile - Otherworld Legends - Logan_222
+  - first:
+      213: -5354624742938169960
+    second: Mobile - Otherworld Legends - Logan_223
+  - first:
+      213: -5815282681859965047
+    second: Mobile - Otherworld Legends - Logan_224
+  - first:
+      213: 7449408584847533326
+    second: Mobile - Otherworld Legends - Logan_225
+  - first:
+      213: 8884073759205504923
+    second: Mobile - Otherworld Legends - Logan_226
+  - first:
+      213: 4925839516781446007
+    second: Mobile - Otherworld Legends - Logan_227
+  - first:
+      213: 2750033091392762250
+    second: Mobile - Otherworld Legends - Logan_228
+  - first:
+      213: -7184262574783046403
+    second: Mobile - Otherworld Legends - Logan_229
+  - first:
+      213: -5997613477650871567
+    second: Mobile - Otherworld Legends - Logan_230
+  - first:
+      213: -1458665479573318639
+    second: Mobile - Otherworld Legends - Logan_231
+  - first:
+      213: 2902432700952444427
+    second: Mobile - Otherworld Legends - Logan_232
+  - first:
+      213: 1768518554087134678
+    second: Mobile - Otherworld Legends - Logan_233
+  - first:
+      213: 7975822043996313702
+    second: Mobile - Otherworld Legends - Logan_234
+  - first:
+      213: 1111453527411417510
+    second: Mobile - Otherworld Legends - Logan_235
+  - first:
+      213: -778713749884296612
+    second: Mobile - Otherworld Legends - Logan_236
+  - first:
+      213: 2363598958406673040
+    second: Mobile - Otherworld Legends - Logan_237
+  - first:
+      213: 4121639103614588847
+    second: Mobile - Otherworld Legends - Logan_238
+  - first:
+      213: 1271663667174203346
+    second: Mobile - Otherworld Legends - Logan_239
+  - first:
+      213: -6248286709018976903
+    second: Mobile - Otherworld Legends - Logan_240
+  - first:
+      213: -1997915824739477883
+    second: Mobile - Otherworld Legends - Logan_241
+  - first:
+      213: -3833519047325955353
+    second: Mobile - Otherworld Legends - Logan_242
+  - first:
+      213: -5206757956584500133
+    second: Mobile - Otherworld Legends - Logan_243
+  - first:
+      213: -4397044157005295976
+    second: Mobile - Otherworld Legends - Logan_244
+  - first:
+      213: 6791843741590872513
+    second: Mobile - Otherworld Legends - Logan_245
+  - first:
+      213: -5325229306206898107
+    second: Mobile - Otherworld Legends - Logan_246
+  - first:
+      213: 4058162966497739619
+    second: Mobile - Otherworld Legends - Logan_247
+  - first:
+      213: -1224381989834635627
+    second: Mobile - Otherworld Legends - Logan_248
+  - first:
+      213: 7373937364180409571
+    second: Mobile - Otherworld Legends - Logan_249
+  - first:
+      213: -3027980923510461806
+    second: Mobile - Otherworld Legends - Logan_250
+  - first:
+      213: -3934399488158112142
+    second: Mobile - Otherworld Legends - Logan_251
+  - first:
+      213: 5570261497670417671
+    second: Mobile - Otherworld Legends - Logan_252
+  - first:
+      213: -9032080370015248590
+    second: Mobile - Otherworld Legends - Logan_253
+  - first:
+      213: 5216024301081265140
+    second: Mobile - Otherworld Legends - Logan_254
+  - first:
+      213: -5369407899280487104
+    second: Mobile - Otherworld Legends - Logan_255
+  - first:
+      213: -863884475608879230
+    second: Mobile - Otherworld Legends - Logan_256
+  - first:
+      213: -5710668836970495887
+    second: Mobile - Otherworld Legends - Logan_257
+  - first:
+      213: 3904631722558298188
+    second: Mobile - Otherworld Legends - Logan_258
+  - first:
+      213: -5539911797478943330
+    second: Mobile - Otherworld Legends - Logan_259
+  - first:
+      213: 5557494776915344545
+    second: Mobile - Otherworld Legends - Logan_260
+  - first:
+      213: -2621594289834872733
+    second: Mobile - Otherworld Legends - Logan_261
+  - first:
+      213: 6971092918041284672
+    second: Mobile - Otherworld Legends - Logan_262
+  - first:
+      213: 7015514707833814828
+    second: Mobile - Otherworld Legends - Logan_263
+  - first:
+      213: -8742795731058720212
+    second: Mobile - Otherworld Legends - Logan_264
+  - first:
+      213: 3073840872576830427
+    second: Mobile - Otherworld Legends - Logan_265
+  - first:
+      213: 8381094243684972369
+    second: Mobile - Otherworld Legends - Logan_266
+  - first:
+      213: 7841743859459380849
+    second: Mobile - Otherworld Legends - Logan_267
+  - first:
+      213: -724479821985773835
+    second: Mobile - Otherworld Legends - Logan_268
+  - first:
+      213: 5716691282429274429
+    second: Mobile - Otherworld Legends - Logan_269
+  - first:
+      213: -471106378847657646
+    second: Mobile - Otherworld Legends - Logan_270
+  - first:
+      213: -685549731209797824
+    second: Mobile - Otherworld Legends - Logan_271
+  - first:
+      213: -3347978977961025273
+    second: Mobile - Otherworld Legends - Logan_272
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2133
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db202e08e94e54d90800000000000000
+      internalID: -7114028666943569219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2133
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4987acdee502ca420800000000000000
+      internalID: 2642522673448122516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2133
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd85736094eafcd20800000000000000
+      internalID: 3301048680545999067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2133
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3fa4ab0d0d69700800000000000000
+      internalID: 546853999669343199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2133
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2437ecb2fca0c1f10800000000000000
+      internalID: 2241678599433122626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2133
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a7c4825694bbdd0800000000000000
+      internalID: -2469299271865959887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2133
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e31692411ec34c0800000000000000
+      internalID: -4306319666963202432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2133
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8f7666a0e465300800000000000000
+      internalID: 240465436685629630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2074
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ea42fd76398a860800000000000000
+      internalID: 7541439650366533137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2074
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83391ce6b597b650800000000000000
+      internalID: 6248627620877513614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2074
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966e0ba8f41a6f810800000000000000
+      internalID: 1798802464182429289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2074
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab358730de27de60800000000000000
+      internalID: 7986903935984417704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2074
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec36ec84c99d34c0800000000000000
+      internalID: -4306116599239787286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2074
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c86c01fe6932f410800000000000000
+      internalID: 1509331973775845575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_14
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2074
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab495e25fc5718480800000000000000
+      internalID: -8898701855397931846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_15
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2074
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144cf0449e39b1e10800000000000000
+      internalID: 2169490275587572801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_16
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2074
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186cfc5dd490e1ba0800000000000000
+      internalID: -6116441014018259327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2014
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bedd65d281dc2f70800000000000000
+      internalID: 9163929701648817845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_18
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2014
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a62832ea2c8a0060800000000000000
+      internalID: 6920497893220034211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_19
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2014
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a828bcd8701f46460800000000000000
+      internalID: 7234171916209848970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1954
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b478f0829819a920800000000000000
+      internalID: 3001957644127204536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1954
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d061a7f4e2c0a8b0800000000000000
+      internalID: -5142896485794225965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1954
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929c50fc5d61f6310800000000000000
+      internalID: 1400363116692621609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1954
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361fff80318df15c0800000000000000
+      internalID: -4242434747692748445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_24
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1954
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cade9027bd9cd950800000000000000
+      internalID: 6475223774103788224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1954
+        width: 106
+        height: 58
+      alignment: 9
+      pivot: {x: 0.68, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d58030cd9462cb0800000000000000
+      internalID: -4889139136171582062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_27
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1954
+        width: 101
+        height: 58
+      alignment: 9
+      pivot: {x: 0.73, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83a264f19a7cd3c0800000000000000
+      internalID: -4333453974148308082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1893
+        width: 55
+        height: 58
+      alignment: 9
+      pivot: {x: 0.56, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef58b5616e1b9450800000000000000
+      internalID: 6096499924243341292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1893
+        width: 62
+        height: 58
+      alignment: 9
+      pivot: {x: 0.56, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3781abb39def75cb0800000000000000
+      internalID: -4875147862641862541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1833
+        width: 63
+        height: 61
+      alignment: 9
+      pivot: {x: 0.54, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6d0febb80e70380800000000000000
+      internalID: -9004982039095486757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1833
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee603d253be518270800000000000000
+      internalID: 8250980116601177838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1833
+        width: 39
+        height: 61
+      alignment: 9
+      pivot: {x: 0.44, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1067163e8922ef500800000000000000
+      internalID: 431820654319334913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1833
+        width: 41
+        height: 61
+      alignment: 9
+      pivot: {x: 0.41, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46add4d9647150a90800000000000000
+      internalID: -7348441624930821532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_34
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1833
+        width: 38
+        height: 61
+      alignment: 9
+      pivot: {x: 0.47, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e31a623cfd43920800000000000000
+      internalID: 2969244083603717740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_35
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1833
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5e2ba6133209410800000000000000
+      internalID: 1481722972555371960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_36
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1833
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cf0cfdffafbb9f0800000000000000
+      internalID: -451491360743031654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_37
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1833
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84f3df2364ef7e10800000000000000
+      internalID: 2197726257835406475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_38
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1833
+        width: 34
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5250352, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ff5a85279381eb0800000000000000
+      internalID: -4748982643785859261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_39
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1833
+        width: 43
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5178343, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0a88c3a30675270800000000000000
+      internalID: 8239159846537568461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_40
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1833
+        width: 41
+        height: 61
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebad797aa75500b0800000000000000
+      internalID: -5763103758456345626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_41
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1833
+        width: 38
+        height: 61
+      alignment: 9
+      pivot: {x: 0.47, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07dbd68d129daba0800000000000000
+      internalID: -6076039666738669811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_42
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1833
+        width: 37
+        height: 61
+      alignment: 9
+      pivot: {x: 0.47, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af55d60b75bfccdf0800000000000000
+      internalID: -158475532824128006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1770
+        width: 56
+        height: 61
+      alignment: 9
+      pivot: {x: 0.61, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efe48b7891872e20800000000000000
+      internalID: 3325769341743722470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_44
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1770
+        width: 58
+        height: 61
+      alignment: 9
+      pivot: {x: 0.53, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38452dbd175b64480800000000000000
+      internalID: -8915238911709391741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1770
+        width: 57
+        height: 61
+      alignment: 9
+      pivot: {x: 0.534, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082567f8c684bdc90800000000000000
+      internalID: -7144036752792595840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_46
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1770
+        width: 61
+        height: 61
+      alignment: 9
+      pivot: {x: 0.534, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ab8b7d6e1da58f0800000000000000
+      internalID: -550897215007573430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_47
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1770
+        width: 65
+        height: 61
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1379de21b87e160800000000000000
+      internalID: 7054760254710952360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_48
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1770
+        width: 67
+        height: 61
+      alignment: 9
+      pivot: {x: 0.56, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f34eabfd89211430800000000000000
+      internalID: 3751825654365963251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_59
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1694
+        width: 34
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520e09615635af350800000000000000
+      internalID: 6051240742961078309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1694
+        width: 57
+        height: 59
+      alignment: 9
+      pivot: {x: 0.66, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4ae4d90dc25bc50800000000000000
+      internalID: 6680294896777995488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_51
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1694
+        width: 61
+        height: 58
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765e5e7c0eeb7b330800000000000000
+      internalID: 3726657089308058983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_52
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1694
+        width: 61
+        height: 58
+      alignment: 9
+      pivot: {x: 0.68, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6384fe0e07f04e0800000000000000
+      internalID: -2013266397021849904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_53
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1694
+        width: 61
+        height: 57
+      alignment: 9
+      pivot: {x: 0.68, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ceac940dc5be8c0800000000000000
+      internalID: -3968976596935971837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_55
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1694
+        width: 75
+        height: 75
+      alignment: 9
+      pivot: {x: 0.55, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a756b2132279fb70800000000000000
+      internalID: 8933296830829451170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_56
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1694
+        width: 55
+        height: 75
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec800b36f822ac20800000000000000
+      internalID: 3216178121912913124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_57
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1694
+        width: 52
+        height: 75
+      alignment: 9
+      pivot: {x: 0.39, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30e26b72f95bc520800000000000000
+      internalID: 2723369297662631998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1694
+        width: 55
+        height: 75
+      alignment: 9
+      pivot: {x: 0.35, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9edd85d616e8660800000000000000
+      internalID: 7389951160831830471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1615
+        width: 61
+        height: 77
+      alignment: 9
+      pivot: {x: 0.66, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32424ca4acd014e50800000000000000
+      internalID: 6791724875540341795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_61
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1615
+        width: 61
+        height: 77
+      alignment: 9
+      pivot: {x: 0.66, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53b84874b3e6c220800000000000000
+      internalID: 2505940606929908572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_62
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1615
+        width: 96
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9b4e4e0f49f54c0800000000000000
+      internalID: -4296551757134906938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_63
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1615
+        width: 69
+        height: 77
+      alignment: 9
+      pivot: {x: 0.27, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e20a3fa3beb6980800000000000000
+      internalID: -8544477229577392615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_65
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1615
+        width: 56
+        height: 77
+      alignment: 9
+      pivot: {x: 0.32, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb4e8967de63ace0800000000000000
+      internalID: -1395149588086764569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_66
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1615
+        width: 75
+        height: 77
+      alignment: 9
+      pivot: {x: 0.41, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1583abd46cf51f2a0800000000000000
+      internalID: -6705473064865744815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_67
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1615
+        width: 55
+        height: 77
+      alignment: 9
+      pivot: {x: 0.35, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee7e878362520240800000000000000
+      internalID: 4756454743886167779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_68
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1615
+        width: 59
+        height: 77
+      alignment: 9
+      pivot: {x: 0.65, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d5121afe38a9200800000000000000
+      internalID: 187607399713037635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 73
+        height: 77
+      alignment: 9
+      pivot: {x: 0.61, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe723da0a7c92590800000000000000
+      internalID: -7698402595098689803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_71
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1536
+        width: 79
+        height: 77
+      alignment: 9
+      pivot: {x: 0.55, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3b6252c734038f0800000000000000
+      internalID: -562875752943012953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_73
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1536
+        width: 76
+        height: 77
+      alignment: 9
+      pivot: {x: 0.55, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58ed77fe095d72b0800000000000000
+      internalID: -5585210042052908964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_74
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1536
+        width: 61
+        height: 77
+      alignment: 9
+      pivot: {x: 0.51, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084c4a336d1fc5670800000000000000
+      internalID: 8528957696624608384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1476
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.56, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e171c7840b49b8310800000000000000
+      internalID: 1408382793334658846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_76
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1476
+        width: 68
+        height: 59
+      alignment: 9
+      pivot: {x: 0.54, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdffba7035f0e5c0800000000000000
+      internalID: -4188078064887923270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_77
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1476
+        width: 74
+        height: 59
+      alignment: 9
+      pivot: {x: 0.58, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbdabb95a5153310800000000000000
+      internalID: 1384036261512797130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_78
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1476
+        width: 72
+        height: 59
+      alignment: 9
+      pivot: {x: 0.58, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dfd2c3952100f70800000000000000
+      internalID: 9151334617287884163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_79
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1476
+        width: 72
+        height: 59
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58e8e8e54f4802d0800000000000000
+      internalID: -3312310364252084130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_80
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1476
+        width: 72
+        height: 59
+      alignment: 9
+      pivot: {x: 0.58, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b86b214a0cdf520800000000000000
+      internalID: 2737555959432252293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_81
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1476
+        width: 72
+        height: 59
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2745f405b8c495f50800000000000000
+      internalID: 6870606867761943666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_83
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1306
+        width: 31
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2a0f362e7e94f10800000000000000
+      internalID: 2254588048000983723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_84
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1306
+        width: 31
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfd3d31819afe950800000000000000
+      internalID: 6480584309686394803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_85
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1306
+        width: 29
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ad29abe88f728c0800000000000000
+      internalID: -4023974450133018039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_86
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1306
+        width: 43
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd17151c98698ff0800000000000000
+      internalID: -33380502650544688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_87
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1306
+        width: 43
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac894cb43ebf60270800000000000000
+      internalID: 8216531523831371978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1306
+        width: 72
+        height: 59
+      alignment: 9
+      pivot: {x: 0.58, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553cffa3437e1de60800000000000000
+      internalID: 7985417825818755925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_89
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1306
+        width: 57
+        height: 59
+      alignment: 9
+      pivot: {x: 0.53, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51d460281c7cd5a0800000000000000
+      internalID: -6495180119510560417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_90
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1306
+        width: 56
+        height: 59
+      alignment: 9
+      pivot: {x: 0.52, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da2cee70839c5e00800000000000000
+      internalID: 1034864194482875091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_91
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1306
+        width: 66
+        height: 77
+      alignment: 9
+      pivot: {x: 0.57, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2900c22659a50940800000000000000
+      internalID: 5261797927067584812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_92
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1306
+        width: 67
+        height: 82
+      alignment: 9
+      pivot: {x: 0.59, y: 0.355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9a701dd5ce4c130800000000000000
+      internalID: 3586251090976811514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1230
+        width: 67
+        height: 77
+      alignment: 9
+      pivot: {x: 0.58, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4067d6f767fc730800000000000000
+      internalID: 4021563281934517418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_94
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1230
+        width: 69
+        height: 77
+      alignment: 9
+      pivot: {x: 0.58, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d1b575402f93710800000000000000
+      internalID: 1673634837004230023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_95
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1230
+        width: 69
+        height: 77
+      alignment: 9
+      pivot: {x: 0.59, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f926d4ea1250750800000000000000
+      internalID: 6270455088689618785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_96
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1230
+        width: 72
+        height: 77
+      alignment: 9
+      pivot: {x: 0.61, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f753e3ae2397b0ee0800000000000000
+      internalID: -1293807208353614465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_97
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1230
+        width: 72
+        height: 77
+      alignment: 9
+      pivot: {x: 0.59, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed7a4521e80c1b20800000000000000
+      internalID: 3106367606065102319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_98
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1230
+        width: 73
+        height: 77
+      alignment: 9
+      pivot: {x: 0.57, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4dce1ee0aebca00800000000000000
+      internalID: 777972710292378852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_99
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1230
+        width: 73
+        height: 77
+      alignment: 9
+      pivot: {x: 0.57, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41b410df222f6930800000000000000
+      internalID: 4138564171326599503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1171
+        width: 68
+        height: 58
+      alignment: 9
+      pivot: {x: 0.54, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fcf783166587640800000000000000
+      internalID: 5077903555419950982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1111
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.57, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcae0b9155cc29a0800000000000000
+      internalID: -6256408828040008525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_102
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1111
+        width: 67
+        height: 59
+      alignment: 9
+      pivot: {x: 0.52, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e6dc4f89c73a070800000000000000
+      internalID: 8116467949835742854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_103
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1111
+        width: 53
+        height: 59
+      alignment: 9
+      pivot: {x: 0.52, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df13f0314c3a8500800000000000000
+      internalID: 399197767667490776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_104
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1111
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ebf4c83222b10e0800000000000000
+      internalID: -2298205648769270233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_105
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1111
+        width: 57
+        height: 59
+      alignment: 9
+      pivot: {x: 0.52, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77aa9160ed450e220800000000000000
+      internalID: 2513101904634554999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_106
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1111
+        width: 95
+        height: 59
+      alignment: 9
+      pivot: {x: 0.675, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c6c4d9723595d00800000000000000
+      internalID: 961891425028172874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_107
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1111
+        width: 62
+        height: 59
+      alignment: 9
+      pivot: {x: 0.57, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68680c49276080770800000000000000
+      internalID: 8577112579518793350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_108
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1111
+        width: 59
+        height: 59
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82384305749e63450800000000000000
+      internalID: 6068294040425890600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1049
+        width: 56
+        height: 59
+      alignment: 9
+      pivot: {x: 0.52, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd854749e998346a0800000000000000
+      internalID: -6466173325785409313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_110
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1049
+        width: 45
+        height: 59
+      alignment: 9
+      pivot: {x: 0.475, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861feb7a4e0eb8f40800000000000000
+      internalID: 5731922223430562152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_112
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1049
+        width: 90
+        height: 59
+      alignment: 9
+      pivot: {x: 0.734, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694aacf09028a3b40800000000000000
+      internalID: 5420788076925068438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_113
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1049
+        width: 64
+        height: 59
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd03e51187750fbc0800000000000000
+      internalID: -3751402316400545571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_114
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1049
+        width: 51
+        height: 59
+      alignment: 9
+      pivot: {x: 0.46, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b07d594e31f3b4a0800000000000000
+      internalID: -6578649380837035847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_115
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1049
+        width: 56
+        height: 59
+      alignment: 9
+      pivot: {x: 0.44, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a06d99c7ef410f0800000000000000
+      internalID: -1147012193962292596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_116
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1049
+        width: 65
+        height: 59
+      alignment: 9
+      pivot: {x: 0.52, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12e18163be1cc780800000000000000
+      internalID: -8661514227556425187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 977
+        width: 55
+        height: 66
+      alignment: 9
+      pivot: {x: 0.65, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74a4e6bd4818c800800000000000000
+      internalID: 632782469705540735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_118
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 977
+        width: 46
+        height: 66
+      alignment: 9
+      pivot: {x: 0.56, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fac91eec99196a0800000000000000
+      internalID: -6444200477963014270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_119
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 977
+        width: 46
+        height: 66
+      alignment: 9
+      pivot: {x: 0.55, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6908bb5c1f85b9190800000000000000
+      internalID: -7954666521392086890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_120
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 977
+        width: 47
+        height: 66
+      alignment: 9
+      pivot: {x: 0.54, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a744a583f2a3800800000000000000
+      internalID: 592838220031752834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_121
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 977
+        width: 59
+        height: 66
+      alignment: 9
+      pivot: {x: 0.55, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6c3c5f3aaa12fd0800000000000000
+      internalID: -2368424307840530765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_122
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 977
+        width: 110
+        height: 66
+      alignment: 9
+      pivot: {x: 0.35, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0edb49a9039a150800000000000000
+      internalID: 5884287828614832324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_123
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 977
+        width: 131
+        height: 66
+      alignment: 9
+      pivot: {x: 0.23, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63e07db0657f8bf0800000000000000
+      internalID: -319907990164413585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 905
+        width: 130
+        height: 69
+      alignment: 9
+      pivot: {x: 0.237, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf1f6590d65bc1a0800000000000000
+      internalID: -6788236559470616658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_128
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 905
+        width: 129
+        height: 69
+      alignment: 9
+      pivot: {x: 0.25, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f9f487fb86b60c0800000000000000
+      internalID: -4581453024352821471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_129
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 905
+        width: 129
+        height: 69
+      alignment: 9
+      pivot: {x: 0.25, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59415961b4d4cf30800000000000000
+      internalID: 4595031378265983323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_130
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 905
+        width: 128
+        height: 69
+      alignment: 9
+      pivot: {x: 0.22, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1abd23c14d35b70800000000000000
+      internalID: 8886679707309547942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 833
+        width: 132
+        height: 69
+      alignment: 9
+      pivot: {x: 0.21, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410daaaa2a8dfb540800000000000000
+      internalID: 5025973902328385556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_132
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 833
+        width: 133
+        height: 69
+      alignment: 9
+      pivot: {x: 0.23, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dc298a1b078db40800000000000000
+      internalID: 5465242056153812299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_135
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 833
+        width: 137
+        height: 69
+      alignment: 9
+      pivot: {x: 0.355, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4b7a03aacb029e0800000000000000
+      internalID: -1648110024470842118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 709
+        width: 132
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c027905c5f4180a0800000000000000
+      internalID: -6881131497737740088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_141
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 699
+        width: 158
+        height: 59
+      alignment: 9
+      pivot: {x: 0.84, y: 0.585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18febcba03c78ba80800000000000000
+      internalID: -8450868152278192255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_142
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 704
+        width: 178
+        height: 82
+      alignment: 9
+      pivot: {x: 0.85, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43ed0e52faf33f50800000000000000
+      internalID: 6860102576282395466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 638
+        width: 180
+        height: 58
+      alignment: 9
+      pivot: {x: 0.864, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b87a7b4fb32d1290800000000000000
+      internalID: -7918133265335420745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 581
+        width: 146
+        height: 58
+      alignment: 9
+      pivot: {x: 0.85, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be29ca53fe384c370800000000000000
+      internalID: 8341937473217925867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_147
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 579
+        width: 72
+        height: 60
+      alignment: 9
+      pivot: {x: 0.72, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf0735417a34a6d0800000000000000
+      internalID: -2980192795245473875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_144
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 643
+        width: 180
+        height: 58
+      alignment: 9
+      pivot: {x: 0.87, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649cf516a1655c7b0800000000000000
+      internalID: -5204659123053934266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_145
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 643
+        width: 150
+        height: 58
+      alignment: 9
+      pivot: {x: 0.835, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b690161e6732e660800000000000000
+      internalID: 7413548882561373878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 517
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cacabf886fe2cc90800000000000000
+      internalID: -7150890025943905598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_170
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 517
+        width: 57
+        height: 59
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1144970a8426a2950800000000000000
+      internalID: 6425055882466903057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_171
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 517
+        width: 53
+        height: 59
+      alignment: 9
+      pivot: {x: 0.39, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8369acd750004160800000000000000
+      internalID: 7007601397552735116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_172
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 517
+        width: 54
+        height: 59
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645818e3b81a432d0800000000000000
+      internalID: -3299835007534529210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac04951552d65aca0800000000000000
+      internalID: -6006274520982667062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_174
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 456
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965101304ec1da140800000000000000
+      internalID: 4732470549065766249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_175
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 456
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52e996af035dcf40800000000000000
+      internalID: 5750343625906709086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_176
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 456
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd3918aafa3af9a0800000000000000
+      internalID: -6198577088885604880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_177
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e16eca2f4ca1ab0800000000000000
+      internalID: -5036496686698586483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_178
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 398
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adabe9539cd1e3a10800000000000000
+      internalID: 1890981643567413978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_179
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 398
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba3b79e7e91b5e30800000000000000
+      internalID: 4493213537077508792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_180
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 398
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127dfd9a570c08630800000000000000
+      internalID: 3927350486660798241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 82
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb033369f082fad0800000000000000
+      internalID: -2669929820477781021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_184
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 332
+        width: 84
+        height: 63
+      alignment: 9
+      pivot: {x: 0.48809522, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3975f4d10feb8e50800000000000000
+      internalID: 6812801652474870075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_189
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 332
+        width: 95
+        height: 63
+      alignment: 9
+      pivot: {x: 0.43157893, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a5e9656678d93a0800000000000000
+      internalID: -6657015800574092740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_191
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 332
+        width: 90
+        height: 63
+      alignment: 9
+      pivot: {x: 0.39666668, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cdeef0c0527b8c0800000000000000
+      internalID: -3983674611648766883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_192
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 332
+        width: 98
+        height: 63
+      alignment: 9
+      pivot: {x: 0.41326532, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ba072d3fdf940a0800000000000000
+      internalID: -6896702130691724458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_196
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 279
+        width: 99
+        height: 53
+      alignment: 9
+      pivot: {x: 0.41414142, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3918e3fe59d5d8320800000000000000
+      internalID: 2561806661589041555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_197
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 279
+        width: 99
+        height: 53
+      alignment: 9
+      pivot: {x: 0.41414142, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ec034748a72aed0800000000000000
+      internalID: -2404224541758796255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_198
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 279
+        width: 99
+        height: 53
+      alignment: 9
+      pivot: {x: 0.41414142, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87ee4d7fb2756b40800000000000000
+      internalID: 5432874692259014540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_199
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 279
+        width: 100
+        height: 53
+      alignment: 9
+      pivot: {x: 0.41, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6dcb8c1b9b6eb30800000000000000
+      internalID: 4316341466109368041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_193
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 98
+        height: 53
+      alignment: 9
+      pivot: {x: 0.41836736, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a30878fb05b76e0800000000000000
+      internalID: -1838787239308412323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 101
+        height: 36
+      alignment: 9
+      pivot: {x: 0.37326732, y: 0.8888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7055f1122e9ba00800000000000000
+      internalID: 772897442958215120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_209
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 238
+        width: 104
+        height: 36
+      alignment: 9
+      pivot: {x: 0.3625, y: 0.8888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee5265d19d1f0f30800000000000000
+      internalID: 4543883061227577070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_211
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 238
+        width: 104
+        height: 36
+      alignment: 9
+      pivot: {x: 0.3625, y: 0.8888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4691677de39e6d900800000000000000
+      internalID: 709010447469517156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_218
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2971190be5b1ca220800000000000000
+      internalID: 2498401986786957202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_219
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 167
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df82a06163b9c5260800000000000000
+      internalID: 7087710570174621949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_222
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 167
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd0efc14b2e6cf60800000000000000
+      internalID: 8054374246807113152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_224
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 167
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f71472637fb4fa0800000000000000
+      internalID: -5815282681859965047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_225
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 167
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e052596a3ad916760800000000000000
+      internalID: 7449408584847533326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_226
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 167
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9730df93029a4b70800000000000000
+      internalID: 8884073759205504923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_227
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 167
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773075a31f81c5440800000000000000
+      internalID: 4925839516781446007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_228
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 167
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81f80db6841a2620800000000000000
+      internalID: 2750033091392762250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_232
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 216
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e7fbce923874820800000000000000
+      internalID: 2902432700952444427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_236
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 168
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c522f6468f37135f0800000000000000
+      internalID: -778713749884296612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_237
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 167
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0922053dab03dc020800000000000000
+      internalID: 2363598958406673040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_238
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 168
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa79e476de0033930800000000000000
+      internalID: 4121639103614588847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_239
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 5
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df50b32e5bd5a110800000000000000
+      internalID: 1271663667174203346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_240
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 102
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d112ec750a949a0800000000000000
+      internalID: -6248286709018976903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_241
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 101
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586954f842af544e0800000000000000
+      internalID: -1997915824739477883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_242
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 127
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea4170ccba9ccac0800000000000000
+      internalID: -3833519047325955353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_243
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 104
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54975e9931edb7b0800000000000000
+      internalID: -5206757956584500133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_244
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 125
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e0effb2af8af2c0800000000000000
+      internalID: -4397044157005295976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_245
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 101
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1eb73f5e9714e50800000000000000
+      internalID: 6791843741590872513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_246
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 124
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548b908092cf816b0800000000000000
+      internalID: -5325229306206898107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_247
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 100
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3634eba87bd715830800000000000000
+      internalID: 4058162966497739619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_248
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596458a311f120fe0800000000000000
+      internalID: -1224381989834635627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_249
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 104
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec14f3c6fc755660800000000000000
+      internalID: 7373937364180409571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_250
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 104
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29aef7b94637af5d0800000000000000
+      internalID: -3027980923510461806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_251
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 104
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2766bd7c2843669c0800000000000000
+      internalID: -3934399488158112142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_252
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 104
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d3ea2d15b8d4d40800000000000000
+      internalID: 5570261497670417671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_253
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f567ae1ca97a280800000000000000
+      internalID: -9032080370015248590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_254
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 62
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f301c5577a036840800000000000000
+      internalID: 5216024301081265140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_255
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 83
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dc535c6f70c75b0800000000000000
+      internalID: -5369407899280487104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_256
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 54
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fab5085add204f0800000000000000
+      internalID: -863884475608879230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_257
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 80
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1700b7ef2f0afb0b0800000000000000
+      internalID: -5710668836970495887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_258
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 58
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c481fc13dd9003630800000000000000
+      internalID: 3904631722558298188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_259
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 77
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95954862974e13b0800000000000000
+      internalID: -5539911797478943330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_260
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 34
+        width: 73
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acb0230e00302d40800000000000000
+      internalID: 5557494776915344545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_261
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 63
+        width: 74
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360333912e93e9bd0800000000000000
+      internalID: -2621594289834872733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_262
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 65
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0409714131c4eb060800000000000000
+      internalID: 6971092918041284672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_263
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 65
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f76fcf47d1c5160800000000000000
+      internalID: 7015514707833814828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_264
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 65
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22817a9a995ba680800000000000000
+      internalID: -8742795731058720212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_265
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 65
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbc40adcf978aa20800000000000000
+      internalID: 3073840872576830427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_266
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 65
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157f9e74fc0af4470800000000000000
+      internalID: 8381094243684972369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_267
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1765daa2e7873dc60800000000000000
+      internalID: 7841743859459380849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_268
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 27
+        width: 67
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6899bb07122f5f0800000000000000
+      internalID: -724479821985773835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_269
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 31
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39e4cbde64c55f40800000000000000
+      internalID: 5716691282429274429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_270
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 114
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2516d559e3b4679f0800000000000000
+      internalID: -471106378847657646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_271
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 31
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f1063d6207c76f0800000000000000
+      internalID: -685549731209797824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Otherworld Legends - Logan_272
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 18
+        width: 65
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701682f9bd69981d0800000000000000
+      internalID: -3347978977961025273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 36a2b793fd48d344dbd53828cd146294
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - Otherworld Legends - Logan_0: -7114028666943569219
+      Mobile - Otherworld Legends - Logan_1: 2642522673448122516
+      Mobile - Otherworld Legends - Logan_10: 1798802464182429289
+      Mobile - Otherworld Legends - Logan_100: 5077903555419950982
+      Mobile - Otherworld Legends - Logan_101: -6256408828040008525
+      Mobile - Otherworld Legends - Logan_102: 8116467949835742854
+      Mobile - Otherworld Legends - Logan_103: 399197767667490776
+      Mobile - Otherworld Legends - Logan_104: -2298205648769270233
+      Mobile - Otherworld Legends - Logan_105: 2513101904634554999
+      Mobile - Otherworld Legends - Logan_106: 961891425028172874
+      Mobile - Otherworld Legends - Logan_107: 8577112579518793350
+      Mobile - Otherworld Legends - Logan_108: 6068294040425890600
+      Mobile - Otherworld Legends - Logan_109: -6466173325785409313
+      Mobile - Otherworld Legends - Logan_11: 7986903935984417704
+      Mobile - Otherworld Legends - Logan_110: 5731922223430562152
+      Mobile - Otherworld Legends - Logan_111: 2090511354730440703
+      Mobile - Otherworld Legends - Logan_112: 5420788076925068438
+      Mobile - Otherworld Legends - Logan_113: -3751402316400545571
+      Mobile - Otherworld Legends - Logan_114: -6578649380837035847
+      Mobile - Otherworld Legends - Logan_115: -1147012193962292596
+      Mobile - Otherworld Legends - Logan_116: -8661514227556425187
+      Mobile - Otherworld Legends - Logan_117: 632782469705540735
+      Mobile - Otherworld Legends - Logan_118: -6444200477963014270
+      Mobile - Otherworld Legends - Logan_119: -7954666521392086890
+      Mobile - Otherworld Legends - Logan_12: -4306116599239787286
+      Mobile - Otherworld Legends - Logan_120: 592838220031752834
+      Mobile - Otherworld Legends - Logan_121: -2368424307840530765
+      Mobile - Otherworld Legends - Logan_122: 5884287828614832324
+      Mobile - Otherworld Legends - Logan_123: -319907990164413585
+      Mobile - Otherworld Legends - Logan_124: 6138218059810663437
+      Mobile - Otherworld Legends - Logan_125: -5813859834620855326
+      Mobile - Otherworld Legends - Logan_126: -6159738500875976544
+      Mobile - Otherworld Legends - Logan_127: -6788236559470616658
+      Mobile - Otherworld Legends - Logan_128: -4581453024352821471
+      Mobile - Otherworld Legends - Logan_129: 4595031378265983323
+      Mobile - Otherworld Legends - Logan_13: 1509331973775845575
+      Mobile - Otherworld Legends - Logan_130: 8886679707309547942
+      Mobile - Otherworld Legends - Logan_131: 5025973902328385556
+      Mobile - Otherworld Legends - Logan_132: 5465242056153812299
+      Mobile - Otherworld Legends - Logan_133: 352316757682232627
+      Mobile - Otherworld Legends - Logan_134: 659471923014732546
+      Mobile - Otherworld Legends - Logan_135: -1648110024470842118
+      Mobile - Otherworld Legends - Logan_136: -942367910717591658
+      Mobile - Otherworld Legends - Logan_137: -382364478056445352
+      Mobile - Otherworld Legends - Logan_138: -3978917564931017288
+      Mobile - Otherworld Legends - Logan_139: -4962013623689753247
+      Mobile - Otherworld Legends - Logan_14: -8898701855397931846
+      Mobile - Otherworld Legends - Logan_140: -6881131497737740088
+      Mobile - Otherworld Legends - Logan_141: -8450868152278192255
+      Mobile - Otherworld Legends - Logan_142: 6860102576282395466
+      Mobile - Otherworld Legends - Logan_143: -7918133265335420745
+      Mobile - Otherworld Legends - Logan_144: -5204659123053934266
+      Mobile - Otherworld Legends - Logan_145: 7413548882561373878
+      Mobile - Otherworld Legends - Logan_146: 8341937473217925867
+      Mobile - Otherworld Legends - Logan_147: -2980192795245473875
+      Mobile - Otherworld Legends - Logan_148: -5026013037846017561
+      Mobile - Otherworld Legends - Logan_149: -3788534362432116768
+      Mobile - Otherworld Legends - Logan_15: 2169490275587572801
+      Mobile - Otherworld Legends - Logan_150: -2869113441119583921
+      Mobile - Otherworld Legends - Logan_151: 3278187896368551856
+      Mobile - Otherworld Legends - Logan_152: 4452465991620820412
+      Mobile - Otherworld Legends - Logan_153: -3018359307235914668
+      Mobile - Otherworld Legends - Logan_154: -3206596990782989556
+      Mobile - Otherworld Legends - Logan_155: 2798016626653723464
+      Mobile - Otherworld Legends - Logan_156: 6386629593107335368
+      Mobile - Otherworld Legends - Logan_157: 5958574248762327194
+      Mobile - Otherworld Legends - Logan_158: -2514089881406583678
+      Mobile - Otherworld Legends - Logan_159: -2969952860273482034
+      Mobile - Otherworld Legends - Logan_16: -6116441014018259327
+      Mobile - Otherworld Legends - Logan_160: -4076086955498827057
+      Mobile - Otherworld Legends - Logan_166: -6319705637302550403
+      Mobile - Otherworld Legends - Logan_167: -4482766882807351246
+      Mobile - Otherworld Legends - Logan_168: 4765964350746561748
+      Mobile - Otherworld Legends - Logan_169: -7150890025943905598
+      Mobile - Otherworld Legends - Logan_17: 9163929701648817845
+      Mobile - Otherworld Legends - Logan_170: 6425055882466903057
+      Mobile - Otherworld Legends - Logan_171: 7007601397552735116
+      Mobile - Otherworld Legends - Logan_172: -3299835007534529210
+      Mobile - Otherworld Legends - Logan_173: -6006274520982667062
+      Mobile - Otherworld Legends - Logan_174: 4732470549065766249
+      Mobile - Otherworld Legends - Logan_175: 5750343625906709086
+      Mobile - Otherworld Legends - Logan_176: -6198577088885604880
+      Mobile - Otherworld Legends - Logan_177: -5036496686698586483
+      Mobile - Otherworld Legends - Logan_178: 1890981643567413978
+      Mobile - Otherworld Legends - Logan_179: 4493213537077508792
+      Mobile - Otherworld Legends - Logan_18: 6920497893220034211
+      Mobile - Otherworld Legends - Logan_180: 3927350486660798241
+      Mobile - Otherworld Legends - Logan_181: -6950685614925508330
+      Mobile - Otherworld Legends - Logan_182: -2669929820477781021
+      Mobile - Otherworld Legends - Logan_183: -6153147296658745379
+      Mobile - Otherworld Legends - Logan_184: 6812801652474870075
+      Mobile - Otherworld Legends - Logan_185: 4443225320399574870
+      Mobile - Otherworld Legends - Logan_186: 94992248295012476
+      Mobile - Otherworld Legends - Logan_187: -2405943310130485078
+      Mobile - Otherworld Legends - Logan_188: 5171440430242814142
+      Mobile - Otherworld Legends - Logan_189: -6657015800574092740
+      Mobile - Otherworld Legends - Logan_19: 7234171916209848970
+      Mobile - Otherworld Legends - Logan_190: 5481857290944446701
+      Mobile - Otherworld Legends - Logan_191: -3983674611648766883
+      Mobile - Otherworld Legends - Logan_192: -6896702130691724458
+      Mobile - Otherworld Legends - Logan_193: -1838787239308412323
+      Mobile - Otherworld Legends - Logan_194: -745538843000849843
+      Mobile - Otherworld Legends - Logan_195: 5050330624287793983
+      Mobile - Otherworld Legends - Logan_196: 2561806661589041555
+      Mobile - Otherworld Legends - Logan_197: -2404224541758796255
+      Mobile - Otherworld Legends - Logan_198: 5432874692259014540
+      Mobile - Otherworld Legends - Logan_199: 4316341466109368041
+      Mobile - Otherworld Legends - Logan_2: 3301048680545999067
+      Mobile - Otherworld Legends - Logan_20: 3001957644127204536
+      Mobile - Otherworld Legends - Logan_200: 3457812701539502200
+      Mobile - Otherworld Legends - Logan_202: -6910288560486609851
+      Mobile - Otherworld Legends - Logan_203: -3557818069732397911
+      Mobile - Otherworld Legends - Logan_204: 2850733817883016938
+      Mobile - Otherworld Legends - Logan_205: 9102381335223440
+      Mobile - Otherworld Legends - Logan_206: 7013926608980846274
+      Mobile - Otherworld Legends - Logan_207: 772897442958215120
+      Mobile - Otherworld Legends - Logan_208: -136169028030587421
+      Mobile - Otherworld Legends - Logan_209: 4543883061227577070
+      Mobile - Otherworld Legends - Logan_21: -5142896485794225965
+      Mobile - Otherworld Legends - Logan_210: 1939645529927419322
+      Mobile - Otherworld Legends - Logan_211: 709010447469517156
+      Mobile - Otherworld Legends - Logan_212: -2984045289167634833
+      Mobile - Otherworld Legends - Logan_213: -3620864425431563829
+      Mobile - Otherworld Legends - Logan_214: -4511686903624783363
+      Mobile - Otherworld Legends - Logan_215: -6357681475515710871
+      Mobile - Otherworld Legends - Logan_216: -5163660148748750092
+      Mobile - Otherworld Legends - Logan_217: -2400594379159713277
+      Mobile - Otherworld Legends - Logan_218: 2498401986786957202
+      Mobile - Otherworld Legends - Logan_219: 7087710570174621949
+      Mobile - Otherworld Legends - Logan_22: 1400363116692621609
+      Mobile - Otherworld Legends - Logan_220: 9086892995314603039
+      Mobile - Otherworld Legends - Logan_221: -1890794257970468637
+      Mobile - Otherworld Legends - Logan_222: 8054374246807113152
+      Mobile - Otherworld Legends - Logan_223: -5354624742938169960
+      Mobile - Otherworld Legends - Logan_224: -5815282681859965047
+      Mobile - Otherworld Legends - Logan_225: 7449408584847533326
+      Mobile - Otherworld Legends - Logan_226: 8884073759205504923
+      Mobile - Otherworld Legends - Logan_227: 4925839516781446007
+      Mobile - Otherworld Legends - Logan_228: 2750033091392762250
+      Mobile - Otherworld Legends - Logan_229: -7184262574783046403
+      Mobile - Otherworld Legends - Logan_23: -4242434747692748445
+      Mobile - Otherworld Legends - Logan_230: -5997613477650871567
+      Mobile - Otherworld Legends - Logan_231: -1458665479573318639
+      Mobile - Otherworld Legends - Logan_232: 2902432700952444427
+      Mobile - Otherworld Legends - Logan_233: 1768518554087134678
+      Mobile - Otherworld Legends - Logan_234: 7975822043996313702
+      Mobile - Otherworld Legends - Logan_235: 1111453527411417510
+      Mobile - Otherworld Legends - Logan_236: -778713749884296612
+      Mobile - Otherworld Legends - Logan_237: 2363598958406673040
+      Mobile - Otherworld Legends - Logan_238: 4121639103614588847
+      Mobile - Otherworld Legends - Logan_239: 1271663667174203346
+      Mobile - Otherworld Legends - Logan_24: 6475223774103788224
+      Mobile - Otherworld Legends - Logan_240: -6248286709018976903
+      Mobile - Otherworld Legends - Logan_241: -1997915824739477883
+      Mobile - Otherworld Legends - Logan_242: -3833519047325955353
+      Mobile - Otherworld Legends - Logan_243: -5206757956584500133
+      Mobile - Otherworld Legends - Logan_244: -4397044157005295976
+      Mobile - Otherworld Legends - Logan_245: 6791843741590872513
+      Mobile - Otherworld Legends - Logan_246: -5325229306206898107
+      Mobile - Otherworld Legends - Logan_247: 4058162966497739619
+      Mobile - Otherworld Legends - Logan_248: -1224381989834635627
+      Mobile - Otherworld Legends - Logan_249: 7373937364180409571
+      Mobile - Otherworld Legends - Logan_25: -4889139136171582062
+      Mobile - Otherworld Legends - Logan_250: -3027980923510461806
+      Mobile - Otherworld Legends - Logan_251: -3934399488158112142
+      Mobile - Otherworld Legends - Logan_252: 5570261497670417671
+      Mobile - Otherworld Legends - Logan_253: -9032080370015248590
+      Mobile - Otherworld Legends - Logan_254: 5216024301081265140
+      Mobile - Otherworld Legends - Logan_255: -5369407899280487104
+      Mobile - Otherworld Legends - Logan_256: -863884475608879230
+      Mobile - Otherworld Legends - Logan_257: -5710668836970495887
+      Mobile - Otherworld Legends - Logan_258: 3904631722558298188
+      Mobile - Otherworld Legends - Logan_259: -5539911797478943330
+      Mobile - Otherworld Legends - Logan_26: -4804716914107708666
+      Mobile - Otherworld Legends - Logan_260: 5557494776915344545
+      Mobile - Otherworld Legends - Logan_261: -2621594289834872733
+      Mobile - Otherworld Legends - Logan_262: 6971092918041284672
+      Mobile - Otherworld Legends - Logan_263: 7015514707833814828
+      Mobile - Otherworld Legends - Logan_264: -8742795731058720212
+      Mobile - Otherworld Legends - Logan_265: 3073840872576830427
+      Mobile - Otherworld Legends - Logan_266: 8381094243684972369
+      Mobile - Otherworld Legends - Logan_267: 7841743859459380849
+      Mobile - Otherworld Legends - Logan_268: -724479821985773835
+      Mobile - Otherworld Legends - Logan_269: 5716691282429274429
+      Mobile - Otherworld Legends - Logan_27: -4333453974148308082
+      Mobile - Otherworld Legends - Logan_270: -471106378847657646
+      Mobile - Otherworld Legends - Logan_271: -685549731209797824
+      Mobile - Otherworld Legends - Logan_272: -3347978977961025273
+      Mobile - Otherworld Legends - Logan_28: 6096499924243341292
+      Mobile - Otherworld Legends - Logan_29: -4875147862641862541
+      Mobile - Otherworld Legends - Logan_3: 546853999669343199
+      Mobile - Otherworld Legends - Logan_30: -9004982039095486757
+      Mobile - Otherworld Legends - Logan_31: 8250980116601177838
+      Mobile - Otherworld Legends - Logan_32: 431820654319334913
+      Mobile - Otherworld Legends - Logan_33: -7348441624930821532
+      Mobile - Otherworld Legends - Logan_34: 2969244083603717740
+      Mobile - Otherworld Legends - Logan_35: 1481722972555371960
+      Mobile - Otherworld Legends - Logan_36: -451491360743031654
+      Mobile - Otherworld Legends - Logan_37: 2197726257835406475
+      Mobile - Otherworld Legends - Logan_38: -4748982643785859261
+      Mobile - Otherworld Legends - Logan_39: 8239159846537568461
+      Mobile - Otherworld Legends - Logan_4: 2241678599433122626
+      Mobile - Otherworld Legends - Logan_40: -5763103758456345626
+      Mobile - Otherworld Legends - Logan_41: -6076039666738669811
+      Mobile - Otherworld Legends - Logan_42: -158475532824128006
+      Mobile - Otherworld Legends - Logan_43: 3325769341743722470
+      Mobile - Otherworld Legends - Logan_44: -8915238911709391741
+      Mobile - Otherworld Legends - Logan_45: -7144036752792595840
+      Mobile - Otherworld Legends - Logan_46: -550897215007573430
+      Mobile - Otherworld Legends - Logan_47: 7054760254710952360
+      Mobile - Otherworld Legends - Logan_48: 3751825654365963251
+      Mobile - Otherworld Legends - Logan_5: -2469299271865959887
+      Mobile - Otherworld Legends - Logan_50: 6680294896777995488
+      Mobile - Otherworld Legends - Logan_51: 3726657089308058983
+      Mobile - Otherworld Legends - Logan_52: -2013266397021849904
+      Mobile - Otherworld Legends - Logan_53: -3968976596935971837
+      Mobile - Otherworld Legends - Logan_54: 2734925477406071062
+      Mobile - Otherworld Legends - Logan_55: 8933296830829451170
+      Mobile - Otherworld Legends - Logan_56: 3216178121912913124
+      Mobile - Otherworld Legends - Logan_57: 2723369297662631998
+      Mobile - Otherworld Legends - Logan_58: 7389951160831830471
+      Mobile - Otherworld Legends - Logan_59: 6051240742961078309
+      Mobile - Otherworld Legends - Logan_6: -4306319666963202432
+      Mobile - Otherworld Legends - Logan_60: 6791724875540341795
+      Mobile - Otherworld Legends - Logan_61: 2505940606929908572
+      Mobile - Otherworld Legends - Logan_62: -4296551757134906938
+      Mobile - Otherworld Legends - Logan_63: -8544477229577392615
+      Mobile - Otherworld Legends - Logan_64: -8562154640594719260
+      Mobile - Otherworld Legends - Logan_65: -1395149588086764569
+      Mobile - Otherworld Legends - Logan_66: -6705473064865744815
+      Mobile - Otherworld Legends - Logan_67: 4756454743886167779
+      Mobile - Otherworld Legends - Logan_68: 187607399713037635
+      Mobile - Otherworld Legends - Logan_69: -1965814431225226547
+      Mobile - Otherworld Legends - Logan_7: 240465436685629630
+      Mobile - Otherworld Legends - Logan_70: -7698402595098689803
+      Mobile - Otherworld Legends - Logan_71: -562875752943012953
+      Mobile - Otherworld Legends - Logan_72: -3789027719141903777
+      Mobile - Otherworld Legends - Logan_73: -5585210042052908964
+      Mobile - Otherworld Legends - Logan_74: 8528957696624608384
+      Mobile - Otherworld Legends - Logan_75: 1408382793334658846
+      Mobile - Otherworld Legends - Logan_76: -4188078064887923270
+      Mobile - Otherworld Legends - Logan_77: 1384036261512797130
+      Mobile - Otherworld Legends - Logan_78: 9151334617287884163
+      Mobile - Otherworld Legends - Logan_79: -3312310364252084130
+      Mobile - Otherworld Legends - Logan_8: 7541439650366533137
+      Mobile - Otherworld Legends - Logan_80: 2737555959432252293
+      Mobile - Otherworld Legends - Logan_81: 6870606867761943666
+      Mobile - Otherworld Legends - Logan_82: 7985417825818755925
+      Mobile - Otherworld Legends - Logan_83: 2254588048000983723
+      Mobile - Otherworld Legends - Logan_84: 6480584309686394803
+      Mobile - Otherworld Legends - Logan_85: -4023974450133018039
+      Mobile - Otherworld Legends - Logan_86: -33380502650544688
+      Mobile - Otherworld Legends - Logan_87: 8216531523831371978
+      Mobile - Otherworld Legends - Logan_89: -6495180119510560417
+      Mobile - Otherworld Legends - Logan_9: 6248627620877513614
+      Mobile - Otherworld Legends - Logan_90: 1034864194482875091
+      Mobile - Otherworld Legends - Logan_91: 5261797927067584812
+      Mobile - Otherworld Legends - Logan_92: 3586251090976811514
+      Mobile - Otherworld Legends - Logan_93: 4021563281934517418
+      Mobile - Otherworld Legends - Logan_94: 1673634837004230023
+      Mobile - Otherworld Legends - Logan_95: 6270455088689618785
+      Mobile - Otherworld Legends - Logan_96: -1293807208353614465
+      Mobile - Otherworld Legends - Logan_97: 3106367606065102319
+      Mobile - Otherworld Legends - Logan_98: 777972710292378852
+      Mobile - Otherworld Legends - Logan_99: 4138564171326599503
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
