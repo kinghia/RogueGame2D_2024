@@ -2,15 +2,28 @@ using UnityEngine;
 
 public class BossHealth : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    [SerializeField] Animator anim;
+    public int health = 500;
+    //public GameObject deathEffect;
+    public bool isInvulnerable;
+
+    public void TakeDamage(int amount)
     {
-        
+        if (isInvulnerable) return;
+
+        health -= amount;
+
+        int randomAnim = Random.Range(1, 3);
+        anim.SetTrigger("Hurt" + randomAnim);
+
+        if (health <= 0)
+        {
+            Die();
+        }
     }
 
-    // Update is called once per frame
-    void Update()
+    void Die()
     {
-        
+        //todo
     }
 }

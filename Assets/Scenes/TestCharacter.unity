@@ -358,6 +358,10 @@ PrefabInstance:
       propertyPath: m_Interpolate
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4927892992613794156, guid: ac5fa3876ab4bf749ac43248945f725e, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6497645031728494756, guid: ac5fa3876ab4bf749ac43248945f725e, type: 3}
       propertyPath: m_Name
       value: Peddler_Player

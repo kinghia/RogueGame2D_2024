@@ -14,7 +14,7 @@ public class PlayerCombat : MonoBehaviour
     [SerializeField] int combo = 1;
     [SerializeField] int comboNumber = 3;
     [SerializeField] bool attacking; public bool Attacking { get { return attacking;}}   
-    [SerializeField] float comboTiming = .5f;
+    //[SerializeField] float comboTiming = .5f;
     private float lastAttackTime = 0f; 
     private float comboResetTime = 1f; 
     
@@ -22,6 +22,7 @@ public class PlayerCombat : MonoBehaviour
     float nextAttackTime = 0f;
 
     public LayerMask enemyLayers;
+    public LayerMask bossLayers;
 
     Animator anim;
     PlayerMovement playerMovement;
@@ -52,7 +53,8 @@ public class PlayerCombat : MonoBehaviour
             attacking = true;
 
             anim.SetTrigger("Attacking" + combo);
-            AttackNormal();
+            AttackEnemy();
+            AttackBoss();
 
             lastAttackTime = Time.time;
             nextAttackTime = Time.time + 1f / attackRate;
@@ -78,7 +80,7 @@ public class PlayerCombat : MonoBehaviour
         }
     }
 
-    void AttackNormal()
+    void AttackEnemy()
     {
         Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
 
@@ -86,6 +88,18 @@ public class PlayerCombat : MonoBehaviour
         {
             enemy.GetComponent<EnemyHealth>().TakeDamage(attackDamage);
             Debug.Log("hit enemy");
+            //StartCoroutine(DelayedHit(enemy, .5f));
+        }
+    }
+
+    void AttackBoss()
+    {
+        Collider2D[] hitBosses = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, bossLayers);
+
+        foreach (Collider2D boss in hitBosses)
+        {
+            boss.GetComponent<BossHealth>().TakeDamage(attackDamage);
+            Debug.Log("hit boss");
             //StartCoroutine(DelayedHit(enemy, .5f));
         }
     }
