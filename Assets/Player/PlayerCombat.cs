@@ -5,10 +5,10 @@ using System.Collections.Generic;
 public class PlayerCombat : MonoBehaviour
 {
     [Header("Dame Range")]
-    [SerializeField] Transform attackPoint;
-    public Transform AttackPoint {get { return attackPoint;}}
+    [SerializeField] Transform attackPoint; public Transform AttackPoint {get { return attackPoint;}}
     [SerializeField] float attackRange = .5f;
-    [SerializeField] int attackDamage = 40;
+    [SerializeField] int damageNormal = 40;
+    [SerializeField] int damageSkill = 60;
 
     [Header("Combo Attacking")]
     [SerializeField] int combo = 1;
@@ -16,13 +16,13 @@ public class PlayerCombat : MonoBehaviour
     [SerializeField] bool attacking; public bool Attacking { get { return attacking;}}   
     //[SerializeField] float comboTiming = .5f;
     private float lastAttackTime = 0f; 
+    private float lastSkillTime = 0f;
     private float comboResetTime = 1f; 
     
     [SerializeField] [Range(2f, 6f)] float  attackRate = 2f;
     float nextAttackTime = 0f;
 
-    public LayerMask enemyLayers;
-    public LayerMask bossLayers;
+    public LayerMask enemyAndBossLayers;
 
     Animator anim;
     PlayerMovement playerMovement;
@@ -53,23 +53,33 @@ public class PlayerCombat : MonoBehaviour
             attacking = true;
 
             anim.SetTrigger("Attacking" + combo);
-            AttackEnemy();
-            AttackBoss();
+            AttackNormal();
 
             lastAttackTime = Time.time;
             nextAttackTime = Time.time + 1f / attackRate;
 
             combo++;
 
-            if (combo > 3)
-            {
-                StartCoroutine(ComboDash(0.3f, .1f));
-            }   
-
             if (combo > comboNumber)
             {
                 combo = 1;
             }
+
+            // Tính knockback chỉ theo trục X
+            Vector3 knockbackDir = transform.position;
+            knockbackDir.y = 0;
+            knockbackDir.z = 0;
+            knockbackDir = knockbackDir.normalized;
+            StartCoroutine(ComboDash(knockbackDir, 0.2f, .1f));
+        }
+
+        if (Input.GetKeyDown(KeyCode.J) && Time.time >= nextAttackTime)
+        {
+            attacking = true;
+
+            SkillOne();
+            lastAttackTime = Time.time;
+            nextAttackTime = Time.time + 1f / attackRate;
         }
 
         if (attacking && Time.time - lastAttackTime > .5f)
@@ -80,31 +90,63 @@ public class PlayerCombat : MonoBehaviour
         }
     }
 
-    void AttackEnemy()
+    void AttackNormal()
     {
-        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
+        DamageAttackNormal();
+    }
 
-        foreach (Collider2D enemy in hitEnemies)
+    void SkillOne()
+    {
+        anim.SetTrigger("Skill1");
+
+        StartCoroutine(DoMultiHitSkill(3, 0.2f));
+    }
+
+    void DamageAttackNormal()
+    {
+        Collider2D[] hitTargets = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyAndBossLayers);
+
+        foreach (Collider2D target in hitTargets)
         {
-            enemy.GetComponent<EnemyHealth>().TakeDamage(attackDamage);
-            Debug.Log("hit enemy");
-            //StartCoroutine(DelayedHit(enemy, .5f));
+            if (target.CompareTag("Boss"))
+            {
+                target.GetComponent<BossHealth>().TakeDamage(damageNormal, transform);
+            }
+            else if (target.CompareTag("Enemy"))
+            {
+                target.GetComponent<EnemyHealth>().TakeDamage(damageNormal);
+            }
         }
     }
 
-    void AttackBoss()
+    void DamageAttackSkill()
     {
-        Collider2D[] hitBosses = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, bossLayers);
+        Collider2D[] hitTargets = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyAndBossLayers);
 
-        foreach (Collider2D boss in hitBosses)
+        foreach (Collider2D target in hitTargets)
         {
-            boss.GetComponent<BossHealth>().TakeDamage(attackDamage);
-            Debug.Log("hit boss");
-            //StartCoroutine(DelayedHit(enemy, .5f));
+            if (target.CompareTag("Boss"))
+            {
+                target.GetComponent<BossHealth>().TakeDamage(damageSkill, transform);
+            }
+            else if (target.CompareTag("Enemy"))
+            {
+                target.GetComponent<EnemyHealth>().TakeDamage(damageSkill);
+            }
         }
     }
 
-    IEnumerator ComboDash(float dashDistance, float dashTime)
+    IEnumerator DoMultiHitSkill(int hitCount, float delayBetweenHits)
+    {
+        for (int i = 0; i < hitCount; i++)
+        {
+            DamageAttackSkill();
+
+            yield return new WaitForSeconds(delayBetweenHits);
+        }
+    }
+
+    IEnumerator ComboDash(Vector3 direction, float dashDistance, float dashTime)
     {
         float elapsed = 0f;
         Vector3 startPos = transform.position;
@@ -118,17 +160,6 @@ public class PlayerCombat : MonoBehaviour
         }
 
         transform.position = endPos;
-    }
-
-    IEnumerator DelayedHit(Collider2D enemy, float delay)
-    {
-        yield return new WaitForSeconds(delay);
-
-        if (enemy != null)
-        {
-            enemy.GetComponent<EnemyHealth>().TakeDamage(attackDamage);
-            Debug.Log("hit enemy");
-        }
     }
 
     void OnDrawGizmosSelected()

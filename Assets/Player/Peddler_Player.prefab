@@ -222,12 +222,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   attackPoint: {fileID: 725791006732742742}
   attackRange: 0.52
-  attackDamage: 40
-  isEnemy: 0
+  damageNormal: 40
+  damageSkill: 60
   combo: 1
   comboNumber: 3
   attacking: 0
-  comboTiming: 0.5
   attackRate: 3
   enemyLayers:
     serializedVersion: 2
@@ -235,6 +234,9 @@ MonoBehaviour:
   bossLayers:
     serializedVersion: 2
     m_Bits: 128
+  enemyAndBossLayers:
+    serializedVersion: 2
+    m_Bits: 136
 --- !u!114 &5441667385682741776
 MonoBehaviour:
   m_ObjectHideFlags: 0

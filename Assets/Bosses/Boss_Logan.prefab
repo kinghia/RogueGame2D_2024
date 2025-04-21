@@ -57,6 +57,10 @@ PrefabInstance:
       value: Boss_Logan
       objectReference: {fileID: 0}
     - target: {fileID: 4602815192213880011, guid: e41358c35fb720845b9a1d9ae0b39d5f, type: 3}
+      propertyPath: m_FlipX
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4602815192213880011, guid: e41358c35fb720845b9a1d9ae0b39d5f, type: 3}
       propertyPath: m_Size.x
       value: 2.0625
       objectReference: {fileID: 0}
