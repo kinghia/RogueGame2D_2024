@@ -14,9 +14,8 @@ public class PlayerCombat : MonoBehaviour
     [SerializeField] int combo = 1;
     [SerializeField] int comboNumber = 3;
     [SerializeField] bool attacking; public bool Attacking { get { return attacking;}}   
-    //[SerializeField] float comboTiming = .5f;
+
     private float lastAttackTime = 0f; 
-    private float lastSkillTime = 0f;
     private float comboResetTime = 1f; 
     
     [SerializeField] [Range(2f, 6f)] float  attackRate = 2f;
@@ -85,7 +84,6 @@ public class PlayerCombat : MonoBehaviour
         if (attacking && Time.time - lastAttackTime > .5f)
         {
             attacking = false;
-            //playerMovement.isRun = true;
             combo = 1;
         }
     }
